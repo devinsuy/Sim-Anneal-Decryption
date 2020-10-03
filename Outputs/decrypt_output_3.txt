@@ -1,0 +1,3582 @@
+Input:
+ejitp spawa qleji taiul rtwll rflrl laoat wsqqj atgac kthls iraoa
+twlpl qjatw jufrh lhuts qataq itats aittk stqfj cae
+
+
+-------------------------------------------------------------------------- Begin Output 1 -------------------------------------------------------------------------- 
+
+Direct Frequency Mapping
+------------------------
+Simulated annealing init with:
+   Metric @ 0.5451425703256785
+
+Adjacent Frequency Swapping
+---------------------------
+Current metric @ 0.5451425703256785
+restarting
+Simulated annealing init with:
+   Metric @ 0.5451425703256785
+
+Adjacent Frequency Swapping
+---------------------------
+Current metric @ 0.5451425703256785
+
+Random Swapping
+---------------
+Current metric @ 0.5746224475360183
+End metric @ 1.0614504303001406
+
+Best decryption:
+contrarihisecontingedtheedledeeiwithassoityifutmeandiwitheresoithogldmemgtasitisntitainttuatslofic
+
+-------------------------------------------------------------------------- End Output 1 ----------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------- Begin Output 2 -------------------------------------------------------------------------- 
+
+Direct Frequency Mapping
+------------------------
+Simulated annealing init with:
+   Metric @ 0.5451425703256785
+
+Adjacent Frequency Swapping
+---------------------------
+Current metric @ 0.5451425703256785
+
+Random Swapping
+---------------
+Current metric @ 0.4298575243670405
+End metric @ 0.9825885159096174
+
+Best decryption:
+chorlalesetichoreofinrsiinginiiedersattheryemurwiaonedersilithershfgnwiwfrateretoreraeorruartghmec
+
+-------------------------------------------------------------------------- End Output 2 ----------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------- Begin Output 3 -------------------------------------------------------------------------- 
+
+Direct Frequency Mapping
+------------------------
+Simulated annealing init with:
+   Metric @ 0.5451425703256785
+
+Adjacent Frequency Swapping
+---------------------------
+Current metric @ 0.5451425703256785
+
+Random Swapping
+---------------
+Current metric @ 0.5613053754593906
+End metric @ 1.0614504303001406
+
+Best decryption:
+contrarihisecontingedtheedledeeiwithassoityifutmeandiwitheresoithogldmemgtasitisntitainttuatslofic
+
+-------------------------------------------------------------------------- End Output 3 ----------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------- Begin Sample output.txt -----------------------------------------------------------------
+[
+    [
+        [
+            "contrarihisecontingedtheedledeeiwithassoityifutmeandiwitheresoithogldmemgtasitisntitainttuatslofic",
+            1.0614504303001406
+        ],
+        "RANK #1"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedmedeeiwithassoityifutleandiwitheresoithogmdlelgtasitisntitainttuatsmofic",
+            1.060628498603849
+        ],
+        "RANK #2"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedledeeiwithassoityifgtmeandiwitheresoithouldmemutasitisntitainttgatslofic",
+            1.0596942089817871
+        ],
+        "RANK #3"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedledeeiwithassoitgifytmeandiwitheresoithouldmemutasitisntitainttyatslofic",
+            1.0577805902886641
+        ],
+        "RANK #4"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedyedeeilithassoitwifutmeandilitheresoithogydmemgtasitisntitainttuatsyofic",
+            1.053885804535685
+        ],
+        "RANK #5"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedmedeeiwithassoituifytleandiwitheresoithogmdlelgtasitisntitainttyatsmofic",
+            1.053261672051686
+        ],
+        "RANK #6"
+    ],
+    [
+        [
+            "contrarihisecontingedtheeduedeeiwithassoityifltmeandiwitheresoithogudmemgtasitisntitainttlatsuofic",
+            1.0526335262262096
+        ],
+        "RANK #7"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedledeeiwithassoityifmtgeandiwitheresoithouldgegutasitisntitainttmatslofic",
+            1.0525137619693348
+        ],
+        "RANK #8"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedgedeeiwithassoityifltmeandiwitheresoithougdmemutasitisntitainttlatsgofic",
+            1.051337065375515
+        ],
+        "RANK #9"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedmedeeiwithassoityifgtleandiwitheresoithoumdlelutasitisntitainttgatsmofic",
+            1.050914018887862
+        ],
+        "RANK #10"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedledeeigithassoityifwtmeandigitheresoithouldmemutasitisntitainttwatslofic",
+            1.0505805901671912
+        ],
+        "RANK #11"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedledeeiwithassoityigftmeandiwitheresoithouldmemutasitisntitainttfatslogic",
+            1.0497265572369283
+        ],
+        "RANK #12"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedledeeiwithassoitfigytmeandiwitheresoithouldmemutasitisntitainttyatslogic",
+            1.0487948027435583
+        ],
+        "RANK #13"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedyedeeiwithassoituifmtleandiwitheresoithogydlelgtasitisntitainttmatsyofic",
+            1.0485650678339071
+        ],
+        "RANK #14"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedmedeeilithassoitwifutyeandilitheresoithogmdyeygtasitisntitainttuatsmofic",
+            1.047750638186597
+        ],
+        "RANK #15"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedgedeeiwithassoitlifytmeandiwitheresoithougdmemutasitisntitainttyatsgofic",
+            1.0475717963903994
+        ],
+        "RANK #16"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedgedeeiwithassoitfilytmeandiwitheresoithougdmemutasitisntitainttyatsgolic",
+            1.045881428484744
+        ],
+        "RANK #17"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedfedeeilithassoityiwutmeandilitheresoithogfdmemgtasitisntitainttuatsfowic",
+            1.0456571595829833
+        ],
+        "RANK #18"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedwedeeilithassoityifgtmeandilitheresoithouwdmemutasitisntitainttgatswofic",
+            1.0445198107135236
+        ],
+        "RANK #19"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedmedeeilithassoituifytweandilitheresoithogmdwewgtasitisntitainttyatsmofic",
+            1.0434285074295087
+        ],
+        "RANK #20"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedmedeeilithassoitwifytueandilitheresoithogmdueugtasitisntitainttyatsmofic",
+            1.0427682329583152
+        ],
+        "RANK #21"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedledeeiwithassoitmifgtyeandiwitheresoithouldyeyutasitisntitainttgatslofic",
+            1.0425378217656607
+        ],
+        "RANK #22"
+    ],
+    [
+        [
+            "contrarihilecontingedtheedsedeeiwithalloityifutmeandiwithereloithogsdmemgtalitilntitainttuatlsofic",
+            1.0423011973508391
+        ],
+        "RANK #23"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedledeeifithassoityiwutmeandifitheresoithogldmemgtasitisntitainttuatslowic",
+            1.0416152758636434
+        ],
+        "RANK #24"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedledeeiwithassoitfiygtmeandiwitheresoithouldmemutasitisntitainttgatsloyic",
+            1.0414921309761342
+        ],
+        "RANK #25"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedledeeifithassoityiwgtmeandifitheresoithouldmemutasitisntitainttgatslowic",
+            1.040940132559028
+        ],
+        "RANK #26"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedfedeeilithassoityimutweandilitheresoithogfdwewgtasitisntitainttuatsfomic",
+            1.0408554824651057
+        ],
+        "RANK #27"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedledeeiyithassoitwifutmeandiyitheresoithogldmemgtasitisntitainttuatslofic",
+            1.040787573979539
+        ],
+        "RANK #28"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedyedeeilithassoitfiwutmeandilitheresoithogydmemgtasitisntitainttuatsyowic",
+            1.0407447260958917
+        ],
+        "RANK #29"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedledeeimithassoityifgtweandimitheresoithouldwewutasitisntitainttgatslofic",
+            1.0404970422123758
+        ],
+        "RANK #30"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedledeeimithassoitwifutyeandimitheresoithogldyeygtasitisntitainttuatslofic",
+            1.040472888757071
+        ],
+        "RANK #31"
+    ],
+    [
+        [
+            "contrarihisecontingedtheeduedeeilithassoityiwftmeandilitheresoithogudmemgtasitisntitainttfatsuowic",
+            1.040427692590724
+        ],
+        "RANK #32"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedledeeiwithassoityimgtfeandiwitheresoithouldfefutasitisntitainttgatslomic",
+            1.0400276552011698
+        ],
+        "RANK #33"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedwedeeilithassoitmifutyeandilitheresoithogwdyeygtasitisntitainttuatswofic",
+            1.0399692372442526
+        ],
+        "RANK #34"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedyedeeiwithassoitlifgtmeandiwitheresoithouydmemutasitisntitainttgatsyofic",
+            1.0398590896134783
+        ],
+        "RANK #35"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedwedeeifithassoityilutmeandifitheresoithogwdmemgtasitisntitainttuatswolic",
+            1.0397788887799269
+        ],
+        "RANK #36"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedfedeeiwithassoityilgtmeandiwitheresoithoufdmemutasitisntitainttgatsfolic",
+            1.0393583077679254
+        ],
+        "RANK #37"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedfedeeilithassoituiwytmeandilitheresoithogfdmemgtasitisntitainttyatsfowic",
+            1.0392699773511163
+        ],
+        "RANK #38"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedledeeiyithassoitwifgtmeandiyitheresoithouldmemutasitisntitainttgatslofic",
+            1.0390313526611856
+        ],
+        "RANK #39"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedyedeeifithassoitwilutmeandifitheresoithogydmemgtasitisntitainttuatsyolic",
+            1.0386616836310882
+        ],
+        "RANK #40"
+    ],
+    [
+        [
+            "contrarihilecontingedtheedmedeeisithalloitwifutyeandisithereloithogmdyeygtalitilntitainttuatlmofic",
+            1.038414688148914
+        ],
+        "RANK #41"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedyedeeilithassoitwifmtueandilitheresoithogydueugtasitisntitainttmatsyofic",
+            1.0380719013844588
+        ],
+        "RANK #42"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedledeeiuithassoityifwtmeandiuitheresoithogldmemgtasitisntitainttwatslofic",
+            1.038066047984556
+        ],
+        "RANK #43"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedmedeeiwithassoituilytfeandiwitheresoithogmdfefgtasitisntitainttyatsmolic",
+            1.037866214908245
+        ],
+        "RANK #44"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedmedeeilithassoitgifytweandilitheresoithoumdwewutasitisntitainttyatsmofic",
+            1.0375762724315316
+        ],
+        "RANK #45"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedfedeeimithassoityiwutleandimitheresoithogfdlelgtasitisntitainttuatsfowic",
+            1.0375588875625137
+        ],
+        "RANK #46"
+    ],
+    [
+        [
+            "lontrarihiselontingedtheedcedeeiwithassoityifutmeandiwitheresoithogcdmemgtasitisntitainttuatscofil",
+            1.0373306433691734
+        ],
+        "RANK #47"
+    ],
+    [
+        [
+            "contrarihilecontingedtheedfedeeisithalloityiwutmeandisithereloithogfdmemgtalitilntitainttuatlfowic",
+            1.0370115294940787
+        ],
+        "RANK #48"
+    ],
+    [
+        [
+            "contrarihilecontinuedtheedsedeeiwithalloityifgtmeandiwithereloithousdmemutalitilntitainttgatlsofic",
+            1.0369616532182582
+        ],
+        "RANK #49"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedledeeiwithassoitfigmtyeandiwitheresoithouldyeyutasitisntitainttmatslogic",
+            1.0367195124766468
+        ],
+        "RANK #50"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedmedeeilithassoityiwutfeandilitheresoithogmdfefgtasitisntitainttuatsmowic",
+            1.0360282146626227
+        ],
+        "RANK #51"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedfedeeilithassoityiwgtmeandilitheresoithoufdmemutasitisntitainttgatsfowic",
+            1.0356004741010918
+        ],
+        "RANK #52"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedledeeimithassoitwifytueandimitheresoithogldueugtasitisntitainttyatslofic",
+            1.0354911108681566
+        ],
+        "RANK #53"
+    ],
+    [
+        [
+            "contrarihisecontinmedtheedledeeiwithassoityifutgeandiwitheresoithomldgegmtasitisntitainttuatslofic",
+            1.0353897681756434
+        ],
+        "RANK #54"
+    ],
+    [
+        [
+            "contrarihisecontinfedtheedledeeiwithassoityiugtmeandiwitheresoithofldmemftasitisntitainttgatslouic",
+            1.0350577594908614
+        ],
+        "RANK #55"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedyedeeilithassoitwimutfeandilitheresoithogydfefgtasitisntitainttuatsyomic",
+            1.034322562415329
+        ],
+        "RANK #56"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedgedeeiwithassoitmifltyeandiwitheresoithougdyeyutasitisntitainttlatsgofic",
+            1.034267063816833
+        ],
+        "RANK #57"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedledeeifithassoitwiyutmeandifitheresoithogldmemgtasitisntitainttuatsloyic",
+            1.0341420862156578
+        ],
+        "RANK #58"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedfedeeilithassoituimytweandilitheresoithogfdwewgtasitisntitainttyatsfomic",
+            1.0337669881773865
+        ],
+        "RANK #59"
+    ],
+    [
+        [
+            "contrarihilecontingedtheedmedeeisithalloitwifytueandisithereloithogmdueugtalitilntitainttyatlmofic",
+            1.0334316801611079
+        ],
+        "RANK #60"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedmedeeilithassoitwiuytfeandilitheresoithogmdfefgtasitisntitainttyatsmouic",
+            1.0331025536499239
+        ],
+        "RANK #61"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedledeeiwithassoitmigftyeandiwitheresoithouldyeyutasitisntitainttfatslogic",
+            1.0328526124298665
+        ],
+        "RANK #62"
+    ],
+    [
+        [
+            "contrarihisecontinledtheeduedeeiwithassoityifgtmeandiwitheresoitholudmemltasitisntitainttgatsuofic",
+            1.0325542174665001
+        ],
+        "RANK #63"
+    ],
+    [
+        [
+            "contrarihisecontinfedtheedgedeeilithassoityiwutmeandilitheresoithofgdmemftasitisntitainttuatsgowic",
+            1.0323693063028818
+        ],
+        "RANK #64"
+    ],
+    [
+        [
+            "contrarihisecontinfedtheedledeeiwithassoitgiuytmeandiwitheresoithofldmemftasitisntitainttyatslouic",
+            1.0317013765106609
+        ],
+        "RANK #65"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedfedeeiyithassoitwilutmeandiyitheresoithogfdmemgtasitisntitainttuatsfolic",
+            1.031225270344605
+        ],
+        "RANK #66"
+    ],
+    [
+        [
+            "contrarihisecontinfedtheedledeeiwithassoituigytmeandiwitheresoithofldmemftasitisntitainttyatslogic",
+            1.0312216445368911
+        ],
+        "RANK #67"
+    ],
+    [
+        [
+            "contrarihisecontinuedtheedwedeeigithassoitlifytmeandigitheresoithouwdmemutasitisntitainttyatswofic",
+            1.0312194627452582
+        ],
+        "RANK #68"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedfedeeilithassoityiwmtueandilitheresoithogfdueugtasitisntitainttmatsfowic",
+            1.030932250886918
+        ],
+        "RANK #69"
+    ],
+    [
+        [
+            "montrarihisemontingedtheedledeeiwithassoityifutceandiwitheresoithogldcecgtasitisntitainttuatslofim",
+            1.0304077708415356
+        ],
+        "RANK #70"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedyedeeifithassoitliwutmeandifitheresoithogydmemgtasitisntitainttuatsyowic",
+            1.0300610073441177
+        ],
+        "RANK #71"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedfedeeilithassoitmiwutyeandilitheresoithogfdyeygtasitisntitainttuatsfowic",
+            1.0297857065438998
+        ],
+        "RANK #72"
+    ],
+    [
+        [
+            "gontrarihisegontinuedtheedledeeiwithassoityifctmeandiwitheresoithouldmemutasitisntitainttcatslofig",
+            1.0297397004372806
+        ],
+        "RANK #73"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedmedeeilithassoitwiyutfeandilitheresoithogmdfefgtasitisntitainttuatsmoyic",
+            1.0295996998161712
+        ],
+        "RANK #74"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedledeeiyithassoitfiwutmeandiyitheresoithogldmemgtasitisntitainttuatslowic",
+            1.0288899023900016
+        ],
+        "RANK #75"
+    ],
+    [
+        [
+            "contrarihilecontinuedtheedgedeeisithalloitfiwytmeandisithereloithougdmemutalitilntitainttyatlgowic",
+            1.0287399701015707
+        ],
+        "RANK #76"
+    ],
+    [
+        [
+            "contrarihisecontinyedtheedgedeeiwithassoitlifutmeandiwitheresoithoygdmemytasitisntitainttuatsgofic",
+            1.0286053084459288
+        ],
+        "RANK #77"
+    ],
+    [
+        [
+            "contrarihilecontinuedtheedfedeeisithalloityigwtmeandisithereloithoufdmemutalitilntitainttwatlfogic",
+            1.0284369022646729
+        ],
+        "RANK #78"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedwedeeimithassoityilutfeandimitheresoithogwdfefgtasitisntitainttuatswolic",
+            1.0281544741155848
+        ],
+        "RANK #79"
+    ],
+    [
+        [
+            "fontrarihisefontingedtheedledeeiwithassoityicutmeandiwitheresoithogldmemgtasitisntitainttuatslocif",
+            1.0281495036207193
+        ],
+        "RANK #80"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedyedeeifithassoituiwltmeandifitheresoithogydmemgtasitisntitainttlatsyowic",
+            1.0275478207535913
+        ],
+        "RANK #81"
+    ],
+    [
+        [
+            "contrarihisecontinyedtheedledeeiwithassoituifgtmeandiwitheresoithoyldmemytasitisntitainttgatslofic",
+            1.0273346649375905
+        ],
+        "RANK #82"
+    ],
+    [
+        [
+            "contrarihilecontinuedtheedyedeeisithalloitfigwtmeandisithereloithouydmemutalitilntitainttwatlyogic",
+            1.0272804111098042
+        ],
+        "RANK #83"
+    ],
+    [
+        [
+            "fontrarihisefontingedtheedmedeeiwithassoityicutleandiwitheresoithogmdlelgtasitisntitainttuatsmocif",
+            1.0270376081677866
+        ],
+        "RANK #84"
+    ],
+    [
+        [
+            "lontrarihiselontinuedtheedgedeeiwithassoityifctmeandiwitheresoithougdmemutasitisntitainttcatsgofil",
+            1.026879881747544
+        ],
+        "RANK #85"
+    ],
+    [
+        [
+            "contrarihisecontinfedtheedgedeeiwithassoitliuytmeandiwitheresoithofgdmemftasitisntitainttyatsgouic",
+            1.0264604162743685
+        ],
+        "RANK #86"
+    ],
+    [
+        [
+            "fontrarihisefontinuedtheedledeeiwithassoityigctmeandiwitheresoithouldmemutasitisntitainttcatslogif",
+            1.0261028236466416
+        ],
+        "RANK #87"
+    ],
+    [
+        [
+            "lontrarihiselontinuedtheedcedeeiwithassoityifgtmeandiwitheresoithoucdmemutasitisntitainttgatscofil",
+            1.0258381398669252
+        ],
+        "RANK #88"
+    ],
+    [
+        [
+            "contrarihilecontinuedtheedgedeeiwithalloitfisytmeandiwithereloithougdmemutalitilntitainttyatlgosic",
+            1.0257692240453848
+        ],
+        "RANK #89"
+    ],
+    [
+        [
+            "contrarihilecontinuedtheedsedeeiwithalloityigftmeandiwithereloithousdmemutalitilntitainttfatlsogic",
+            1.0257326144675525
+        ],
+        "RANK #90"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedyedeeifithassoitmilutweandifitheresoithogydwewgtasitisntitainttuatsyolic",
+            1.0256053607527675
+        ],
+        "RANK #91"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedmedeeilithassoitwiyftueandilitheresoithogmdueugtasitisntitainttfatsmoyic",
+            1.0255914990649138
+        ],
+        "RANK #92"
+    ],
+    [
+        [
+            "contrarihisecontinyedtheedmedeeilithassoitwifutgeandilitheresoithoymdgegytasitisntitainttuatsmofic",
+            1.02507515094015
+        ],
+        "RANK #93"
+    ],
+    [
+        [
+            "contrarihisecontinwedtheedfedeeilithassoityigutmeandilitheresoithowfdmemwtasitisntitainttuatsfogic",
+            1.024443483245583
+        ],
+        "RANK #94"
+    ],
+    [
+        [
+            "wontrarihisewontingedtheedledeeicithassoityifutmeandicitheresoithogldmemgtasitisntitainttuatslofiw",
+            1.0243179997214256
+        ],
+        "RANK #95"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedmedeeiuithassoitwifltyeandiuitheresoithogmdyeygtasitisntitainttlatsmofic",
+            1.023972071433561
+        ],
+        "RANK #96"
+    ],
+    [
+        [
+            "contrarihilecontinuedtheedfedeeiwithalloityigstmeandiwithereloithoufdmemutalitilntitainttsatlfogic",
+            1.0236726346396336
+        ],
+        "RANK #97"
+    ],
+    [
+        [
+            "contrarihilecontinuedtheedwedeeisithalloitfigytmeandisithereloithouwdmemutalitilntitainttyatlwogic",
+            1.0233218153196102
+        ],
+        "RANK #98"
+    ],
+    [
+        [
+            "fontrarihisefontinuedtheedledeeiwithassoityicgtmeandiwitheresoithouldmemutasitisntitainttgatslocif",
+            1.0231468532281893
+        ],
+        "RANK #99"
+    ],
+    [
+        [
+            "contsasihirecontinuedtheedledeeiwitharroityifgtmeandiwitheseroithouldmemutaritirntitainttgatrlofic",
+            1.0226237689405493
+        ],
+        "RANK #100"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedyedeeifithassoitwilmtueandifitheresoithogydueugtasitisntitainttmatsyolic",
+            1.0225282047279507
+        ],
+        "RANK #101"
+    ],
+    [
+        [
+            "contmamihisecontingedtheedfedeeilithassoityiwutreandilithemesoithogfdrergtasitisntitainttuatsfowic",
+            1.022463000291237
+        ],
+        "RANK #102"
+    ],
+    [
+        [
+            "sontrarihicesontingedtheedledeeiwithaccoityifutmeandiwitherecoithogldmemgtaciticntitainttuatclofis",
+            1.021497552566933
+        ],
+        "RANK #103"
+    ],
+    [
+        [
+            "contrarihisecontinledtheedgedeeiwithassoitfiuytmeandiwitheresoitholgdmemltasitisntitainttyatsgouic",
+            1.0212783181095835
+        ],
+        "RANK #104"
+    ],
+    [
+        [
+            "contrarihisecontinledtheeduedeeiwithassoitfigytmeandiwitheresoitholudmemltasitisntitainttyatsuogic",
+            1.0204566314011525
+        ],
+        "RANK #105"
+    ],
+    [
+        [
+            "contrarihisecontinmedtheedfedeeilithassoityiwutgeandilitheresoithomfdgegmtasitisntitainttuatsfowic",
+            1.0202282566129823
+        ],
+        "RANK #106"
+    ],
+    [
+        [
+            "fontrarihisefontingedtheedyedeeicithassoitwilutmeandicitheresoithogydmemgtasitisntitainttuatsyolif",
+            1.0196104962432482
+        ],
+        "RANK #107"
+    ],
+    [
+        [
+            "montrarihisemontinuedtheedgedeeiwithassoityifltceandiwitheresoithougdcecutasitisntitainttlatsgofim",
+            1.0191448436984403
+        ],
+        "RANK #108"
+    ],
+    [
+        [
+            "contrarihisecontingedtheedyedeeimithassoitliwutfeandimitheresoithogydfefgtasitisntitainttuatsyowic",
+            1.0184366994724643
+        ],
+        "RANK #109"
+    ],
+    [
+        [
+            "contrarihisecontinledtheedyedeeifithassoitwigutmeandifitheresoitholydmemltasitisntitainttuatsyogic",
+            1.0176406943383725
+        ],
+        "RANK #110"
+    ],
+    [
+        [
+            "sontrarihicesontinuedtheedledeeiwithaccoityifgtmeandiwitherecoithouldmemutaciticntitainttgatclofis",
+            1.0176253434328248
+        ],
+        "RANK #111"
+    ],
+    [
+        [
+            "contrarihisecontinwedtheedmedeeilithassoitgifytueandilitheresoithowmdueuwtasitisntitainttyatsmofic",
+            1.0176227382363834
+        ],
+        "RANK #112"
+    ],
+    [
+        [
+            "contrarihisecontinyedtheedfedeeilithassoitgiwutmeandilitheresoithoyfdmemytasitisntitainttuatsfowic",
+            1.0173634117393175
+        ],
+        "RANK #113"
+    ],
+    [
+        [
+            "contdadihisecontingertheerlereeiwithassoityifutmeanriwithedesoithoglrmemgtasitisntitainttuatslofic",
+            1.0171750124947583
+        ],
+        "RANK #114"
+    ],
+    [
+        [
+            "contrarihisecontinmedtheedledeeiwithassoityigftueandiwitheresoithomldueumtasitisntitainttfatslogic",
+            1.0166092177964907
+        ],
+        "RANK #115"
+    ],
+    [
+        [
+            "contrarihisecontinyedtheedgedeeifithassoitwilutmeandifitheresoithoygdmemytasitisntitainttuatsgolic",
+            1.0157675568480964
+        ],
+        "RANK #116"
+    ],
+    [
+        [
+            "contrarihisecontinmedtheedledeeiwithassoitfigytueandiwitheresoithomldueumtasitisntitainttyatslogic",
+            1.0156776898618307
+        ],
+        "RANK #117"
+    ],
+    [
+        [
+            "montrarihisemontingedtheedfedeeilithassoityiwutceandilitheresoithogfdcecgtasitisntitainttuatsfowim",
+            1.015535660873416
+        ],
+        "RANK #118"
+    ],
+    [
+        [
+            "contmamihisecontingedtheedyedeeifithassoitwilutreandifithemesoithogydrergtasitisntitainttuatsyolic",
+            1.015519593785035
+        ],
+        "RANK #119"
+    ],
+    [
+        [
+            "contrarihisecontinledtheedfedeeigithassoityiwutmeandigitheresoitholfdmemltasitisntitainttuatsfowic",
+            1.0154798872995154
+        ],
+        "RANK #120"
+    ],
+    [
+        [
+            "fontrarihisefontinuedtheedgedeeiwithassoityicltmeandiwitheresoithougdmemutasitisntitainttlatsgocif",
+            1.0153927863331393
+        ],
+        "RANK #121"
+    ],
+    [
+        [
+            "contrarihisecontinledtheedyedeeifithassoitgiwutmeandifitheresoitholydmemltasitisntitainttuatsyowic",
+            1.0150957362545288
+        ],
+        "RANK #122"
+    ],
+    [
+        [
+            "wontrarihisewontingedtheedfedeeilithassoityicutmeandilitheresoithogfdmemgtasitisntitainttuatsfociw",
+            1.01509056192985
+        ],
+        "RANK #123"
+    ],
+    [
+        [
+            "contlalihisecontinuedtheedredeeiwithassoityifgtmeandiwithelesoithourdmemutasitisntitainttgatsrofic",
+            1.0150713473032646
+        ],
+        "RANK #124"
+    ],
+    [
+        [
+            "lontrarihiselontingedtheedmedeeicithassoitwifytueandicitheresoithogmdueugtasitisntitainttyatsmofil",
+            1.0150409177577355
+        ],
+        "RANK #125"
+    ],
+    [
+        [
+            "fontrarihisefontingedtheedmedeeilithassoitwicutyeandilitheresoithogmdyeygtasitisntitainttuatsmocif",
+            1.0141579086683024
+        ],
+        "RANK #126"
+    ],
+    [
+        [
+            "contrarihisecontinwedtheedledeeiuithassoityifgtmeandiuitheresoithowldmemwtasitisntitainttgatslofic",
+            1.0140205138131813
+        ],
+        "RANK #127"
+    ],
+    [
+        [
+            "contuauihisecontingedtheedmedeeilithassoitwifytreandilitheuesoithogmdrergtasitisntitainttyatsmofic",
+            1.0134407189216719
+        ],
+        "RANK #128"
+    ],
+    [
+        [
+            "contrarihisecontinmedtheedyedeeifithassoitwilutgeandifitheresoithomydgegmtasitisntitainttuatsyolic",
+            1.0134110651503374
+        ],
+        "RANK #129"
+    ],
+    [
+        [
+            "contdadihisecontingertheermereeiwithassoituifytleanriwithedesoithogmrlelgtasitisntitainttyatsmofic",
+            1.0131073267168593
+        ],
+        "RANK #130"
+    ],
+    [
+        [
+            "contrarihilecontinuedtheedyedeeisithalloitmigwtfeandisithereloithouydfefutalitilntitainttwatlyogic",
+            1.0127914430362066
+        ],
+        "RANK #131"
+    ],
+    [
+        [
+            "yontrarihiseyontingedtheedcedeeifithassoitwilutmeandifitheresoithogcdmemgtasitisntitainttuatscoliy",
+            1.0124291343855654
+        ],
+        "RANK #132"
+    ],
+    [
+        [
+            "contrarihimecontingedtheedyedeeilithammoitwifutseandilitheremoithogydsesgtamitimntitainttuatmyofic",
+            1.0123625931836018
+        ],
+        "RANK #133"
+    ],
+    [
+        [
+            "contrarihimecontinuedtheedgedeeiwithammoityifltseandiwitheremoithougdsesutamitimntitainttlatmgofic",
+            1.011927394499119
+        ],
+        "RANK #134"
+    ],
+    [
+        [
+            "contrarihilecontinuedtheedfedeeisithalloitmigwtyeandisithereloithoufdyeyutalitilntitainttwatlfogic",
+            1.0115363227308403
+        ],
+        "RANK #135"
+    ],
+    [
+        [
+            "contrirahasecontangedtheedyedeealathissoatwafutmeindalatheresoathogydmemgtisatasntatianttuitsyofac",
+            1.0114998728293707
+        ],
+        "RANK #136"
+    ],
+    [
+        [
+            "lontrarihiselontingedtheedyedeeifithassoitwicutmeandifitheresoithogydmemgtasitisntitainttuatsyocil",
+            1.0114954243059187
+        ],
+        "RANK #137"
+    ],
+    [
+        [
+            "wontrarihisewontinuedtheedledeeicithassoityigftmeandicitheresoithouldmemutasitisntitainttfatslogiw",
+            1.010592110799874
+        ],
+        "RANK #138"
+    ],
+    [
+        [
+            "wontrarihisewontingedtheedledeeifithassoityicutmeandifitheresoithogldmemgtasitisntitainttuatslociw",
+            1.010113531364194
+        ],
+        "RANK #139"
+    ],
+    [
+        [
+            "contsasihilecontingertheerfereeiwithalloitmiuytdeanriwitheseloithogfrdedgtalitilntitainttyatlfouic",
+            1.0093230199783643
+        ],
+        "RANK #140"
+    ],
+    [
+        [
+            "contdadihisecontingertheerfereeilithassoityiwutmeanrilithedesoithogfrmemgtasitisntitainttuatsfowic",
+            1.0086272393155287
+        ],
+        "RANK #141"
+    ],
+    [
+        [
+            "contsasihirecontingedtheedfedeeilitharroityiwutmeandilitheseroithogfdmemgtaritirntitainttuatrfowic",
+            1.0085793462054136
+        ],
+        "RANK #142"
+    ],
+    [
+        [
+            "contdadihisecontinuertheerlereeiwithassoityifgtmeanriwithedesoithoulrmemutasitisntitainttgatslofic",
+            1.0084937489707702
+        ],
+        "RANK #143"
+    ],
+    [
+        [
+            "wontrarihisewontinuedtheedgedeeicithassoitlifytmeandicitheresoithougdmemutasitisntitainttyatsgofiw",
+            1.0083241172520168
+        ],
+        "RANK #144"
+    ],
+    [
+        [
+            "sontrarihicesontinuedtheedgedeeiwithaccoityifltmeandiwitherecoithougdmemutaciticntitainttlatcgofis",
+            1.0081193730505342
+        ],
+        "RANK #145"
+    ],
+    [
+        [
+            "contrarihimecontinuedtheedgedeeiwithammoitlifytseandiwitheremoithougdsesutamitimntitainttyatmgofic",
+            1.0080384090103462
+        ],
+        "RANK #146"
+    ],
+    [
+        [
+            "contrarihilecontinuedtheedyedeeifithalloitsigwtmeandifithereloithouydmemutalitilntitainttwatlyogic",
+            1.007979053634785
+        ],
+        "RANK #147"
+    ],
+    [
+        [
+            "wontrarihisewontingedtheedmedeeilithassoitcifutyeandilitheresoithogmdyeygtasitisntitainttuatsmofiw",
+            1.0079609263403624
+        ],
+        "RANK #148"
+    ],
+    [
+        [
+            "contmamihilecontingestheesweseeidithalloityifutreansidithemeloithogwsrergtalitilntitainttuatlwofic",
+            1.0077727016877158
+        ],
+        "RANK #149"
+    ],
+    [
+        [
+            "montrarihisemontingedtheedyedeeifithassoitwilutceandifitheresoithogydcecgtasitisntitainttuatsyolim",
+            1.0076422044757962
+        ],
+        "RANK #150"
+    ],
+    [
+        [
+            "contrarihidecontinuestheesleseeiwithaddoityifgtmeansiwitheredoithoulsmemutaditidntitainttgatdlofic",
+            1.0071975828930537
+        ],
+        "RANK #151"
+    ],
+    [
+        [
+            "yontrarihiseyontinuedtheedledeeiwithassoitcigftmeandiwitheresoithouldmemutasitisntitainttfatslogiy",
+            1.0071520659968185
+        ],
+        "RANK #152"
+    ],
+    [
+        [
+            "sontrarihicesontinuedtheedledeeiwithaccoitfigytmeandiwitherecoithouldmemutaciticntitainttyatclogis",
+            1.0069777977601488
+        ],
+        "RANK #153"
+    ],
+    [
+        [
+            "contuauihilecontingedtheedyedeeisithalloitwifmtreandisitheueloithogydrergtalitilntitainttmatlyofic",
+            1.0068465281158443
+        ],
+        "RANK #154"
+    ],
+    [
+        [
+            "contsasihirecontingedtheedmedeeilitharroitwifytueandilitheseroithogmdueugtaritirntitainttyatrmofic",
+            1.006591242468115
+        ],
+        "RANK #155"
+    ],
+    [
+        [
+            "yontrarihiseyontingedtheedfedeeilithassoitciwutmeandilitheresoithogfdmemgtasitisntitainttuatsfowiy",
+            1.005985766291018
+        ],
+        "RANK #156"
+    ],
+    [
+        [
+            "contrirahasecontangedtheedmedeealathissoatwafutyeindalatheresoathogmdyeygtisatasntatianttuitsmofac",
+            1.0058279886990482
+        ],
+        "RANK #157"
+    ],
+    [
+        [
+            "contsasihilecontingertheerfereeiwithalloitmiyutdeanriwitheseloithogfrdedgtalitilntitainttuatlfoyic",
+            1.0056492584386012
+        ],
+        "RANK #158"
+    ],
+    [
+        [
+            "contrarihisecontinuemtheemlemeeiwithassoityifgtdeanmiwitheresoithoulmdedutasitisntitainttgatslofic",
+            1.005600242115088
+        ],
+        "RANK #159"
+    ],
+    [
+        [
+            "uontrarihiseuontingedtheedmedeeilithassoitwifctyeandilitheresoithogmdyeygtasitisntitainttcatsmofiu",
+            1.005566571473095
+        ],
+        "RANK #160"
+    ],
+    [
+        [
+            "uontrarihiseuontingedtheedfedeeilithassoityiwctmeandilitheresoithogfdmemgtasitisntitainttcatsfowiu",
+            1.0055433524681991
+        ],
+        "RANK #161"
+    ],
+    [
+        [
+            "contrarihilecontinmedtheedfedeeisithalloityigwtueandisithereloithomfdueumtalitilntitainttwatlfogic",
+            1.0053168237979555
+        ],
+        "RANK #162"
+    ],
+    [
+        [
+            "uontrarihiseuontincedtheedledeeiwithassoityifgtmeandiwitheresoithocldmemctasitisntitainttgatslofiu",
+            1.0052323326871315
+        ],
+        "RANK #163"
+    ],
+    [
+        [
+            "gontrarihisegontincedtheedmedeeilithassoitwifutyeandilitheresoithocmdyeyctasitisntitainttuatsmofig",
+            1.004907744774449
+        ],
+        "RANK #164"
+    ],
+    [
+        [
+            "contrirahasecontangedtheedfedeealathissoatyawutmeindalatheresoathogfdmemgtisatasntatianttuitsfowac",
+            1.0047560988396445
+        ],
+        "RANK #165"
+    ],
+    [
+        [
+            "yontrarihiseyontingedtheedcedeeifithassoitliwutmeandifitheresoithogcdmemgtasitisntitainttuatscowiy",
+            1.0044085445545654
+        ],
+        "RANK #166"
+    ],
+    [
+        [
+            "sontrarihicesontinuedtheedgedeeiwithaccoitlifytmeandiwitherecoithougdmemutaciticntitainttyatcgofis",
+            1.004354239231083
+        ],
+        "RANK #167"
+    ],
+    [
+        [
+            "contuauihilecontingedtheedwedeeisithalloityifmtreandisitheueloithogwdrergtalitilntitainttmatlwofic",
+            1.0042641072234952
+        ],
+        "RANK #168"
+    ],
+    [
+        [
+            "cantfofihirecantingestheesmeseeiwithorraituilytdeonsiwitheferaithagmsdedgtoritirntitointtyotrmalic",
+            1.0039447544682547
+        ],
+        "RANK #169"
+    ],
+    [
+        [
+            "contrarihimecontingedtheedfedeeilithammoityiwutseandilitheremoithogfdsesgtamitimntitainttuatmfowic",
+            1.003933355799283
+        ],
+        "RANK #170"
+    ],
+    [
+        [
+            "lontrarihiselontingedtheedyedeeifithassoitciwutmeandifitheresoithogydmemgtasitisntitainttuatsyowil",
+            1.0038326863213973
+        ],
+        "RANK #171"
+    ],
+    [
+        [
+            "cantfofihirecantingestheesmeseeiwithorraityilutdeonsiwitheferaithagmsdedgtoritirntitointtuotrmalic",
+            1.0037938538897369
+        ],
+        "RANK #172"
+    ],
+    [
+        [
+            "contrarihilecontinsedtheedfedeeiuithalloityigwtmeandiuithereloithosfdmemstalitilntitainttwatlfogic",
+            1.003650239172911
+        ],
+        "RANK #173"
+    ],
+    [
+        [
+            "contfafihilecontingedtheedyedeeisithalloitwiumtreandisithefeloithogydrergtalitilntitainttmatlyouic",
+            1.003511482120481
+        ],
+        "RANK #174"
+    ],
+    [
+        [
+            "gontrarihisegontincedtheedfedeeilithassoityiwutmeandilitheresoithocfdmemctasitisntitainttuatsfowig",
+            1.0034205936306086
+        ],
+        "RANK #175"
+    ],
+    [
+        [
+            "wontrarihisewontingedtheedmedeeilithassoitcifytueandilitheresoithogmdueugtasitisntitainttyatsmofiw",
+            1.0029863573334006
+        ],
+        "RANK #176"
+    ],
+    [
+        [
+            "contrirahasecontangedtheedmedeealathissoatwafytueindalatheresoathogmdueugtisatasntatianttyitsmofac",
+            1.0022039903948339
+        ],
+        "RANK #177"
+    ],
+    [
+        [
+            "contrarihilecontinsedtheedfedeeiuithalloityiwgtmeandiuithereloithosfdmemstalitilntitainttgatlfowic",
+            1.0021826054965908
+        ],
+        "RANK #178"
+    ],
+    [
+        [
+            "contdadihisecontingertheermereeilithassoitwifytueanrilithedesoithogmrueugtasitisntitainttyatsmofic",
+            1.0021367166515673
+        ],
+        "RANK #179"
+    ],
+    [
+        [
+            "uontrarihiseuontincedtheedgedeeiwithassoityifltmeandiwitheresoithocgdmemctasitisntitainttlatsgofiu",
+            1.0016000867072072
+        ],
+        "RANK #180"
+    ],
+    [
+        [
+            "contrarihisecontingemtheemfemeeilithassoityiwutdeanmilitheresoithogfmdedgtasitisntitainttuatsfowic",
+            1.0013628321706287
+        ],
+        "RANK #181"
+    ],
+    [
+        [
+            "contrarihisecontinueltheeldeleeiwithassoitgifytmeanliwitheresoithoudlmemutasitisntitainttyatsdofic",
+            1.0009921708013174
+        ],
+        "RANK #182"
+    ],
+    [
+        [
+            "contrirahasecontanuedtheedledeeawathissoatgafytmeindawatheresoathouldmemutisatasntatianttyitslofac",
+            1.0005856699909703
+        ],
+        "RANK #183"
+    ],
+    [
+        [
+            "contrarihidecontinuestheesgeseeiwithaddoitlifytmeansiwitheredoithougsmemutaditidntitainttyatdgofic",
+            1.000443159509347
+        ],
+        "RANK #184"
+    ],
+    [
+        [
+            "contrirahasecontanuedtheedledeeawathissoatyafgtmeindawatheresoathouldmemutisatasntatianttgitslofac",
+            1.0004336386852901
+        ],
+        "RANK #185"
+    ],
+    [
+        [
+            "contlalihisecontingedtheedredeeifithassoityiwutmeandifithelesoithogrdmemgtasitisntitainttuatsrowic",
+            1.0001184747667171
+        ],
+        "RANK #186"
+    ],
+    [
+        [
+            "contsasihilecontingertheerwereeimithalloitfiuytdeanrimitheseloithogwrdedgtalitilntitainttyatlwouic",
+            1.000063646659292
+        ],
+        "RANK #187"
+    ],
+    [
+        [
+            "montrarihisemontingedtheedyedeeifithassoitliwutceandifitheresoithogydcecgtasitisntitainttuatsyowim",
+            0.999939194746577
+        ],
+        "RANK #188"
+    ],
+    [
+        [
+            "contrarihidecontingestheesfeseeilithaddoityiwutmeansilitheredoithogfsmemgtaditidntitainttuatdfowic",
+            0.9999035476432089
+        ],
+        "RANK #189"
+    ],
+    [
+        [
+            "mantfofihiremantingestheesceseeiwithorraityilutdeonsiwitheferaithagcsdedgtoritirntitointtuotrcalim",
+            0.9990577796775184
+        ],
+        "RANK #190"
+    ],
+    [
+        [
+            "contfafihilecontingedtheedyedeeisithalloitmiuwtreandisithefeloithogydrergtalitilntitainttwatlyouic",
+            0.9989046367658745
+        ],
+        "RANK #191"
+    ],
+    [
+        [
+            "contrarihidecontingestheesmeseeilithaddoitwifytueansilitheredoithogmsueugtaditidntitainttyatdmofic",
+            0.9987686392171891
+        ],
+        "RANK #192"
+    ],
+    [
+        [
+            "contrarihifecontinuedtheedledeeisithaffoityigwtmeandisitherefoithouldmemutafitifntitainttwatflogic",
+            0.9984420600897035
+        ],
+        "RANK #193"
+    ],
+    [
+        [
+            "uontrarihiseuontincedtheedgedeeiwithassoitlifytmeandiwitheresoithocgdmemctasitisntitainttyatsgofiu",
+            0.9978348177220917
+        ],
+        "RANK #194"
+    ],
+    [
+        [
+            "contdadihisecontinuertheerlereeiwithassoitfigytmeanriwithedesoithoulrmemutasitisntitainttyatslogic",
+            0.9975943427325406
+        ],
+        "RANK #195"
+    ],
+    [
+        [
+            "contrarihisecontingewtheewmeweeilithassoituifytdeanwilitheresoithogmwdedgtasitisntitainttyatsmofic",
+            0.9972867180257151
+        ],
+        "RANK #196"
+    ],
+    [
+        [
+            "gontrarihisegontincedtheedwedeeifithassoityilutmeandifitheresoithocwdmemctasitisntitainttuatswolig",
+            0.9968822651270312
+        ],
+        "RANK #197"
+    ],
+    [
+        [
+            "contlalihisecontinuedtheedgedeeiwithassoitfirytmeandiwithelesoithougdmemutasitisntitainttyatsgoric",
+            0.9968317380823887
+        ],
+        "RANK #198"
+    ],
+    [
+        [
+            "contsasihilecontingertheerwereeimithalloitfiyutdeanrimitheseloithogwrdedgtalitilntitainttuatlwoyic",
+            0.9961581348804793
+        ],
+        "RANK #199"
+    ],
+    [
+        [
+            "cuntrarihisecuntingedtheedledeeiwithassuityifotmeandiwitheresuithugldmemgtasitisntitainttoatslufic",
+            0.9961360805316276
+        ],
+        "RANK #200"
+    ],
+    [
+        [
+            "contyayihisecontingedtheedredeeilithassoitwifutmeandilitheyesoithogrdmemgtasitisntitainttuatsrofic",
+            0.9960500223574552
+        ],
+        "RANK #201"
+    ],
+    [
+        [
+            "contlalihisecontinuedtheedgedeeiwithassoitrifytmeandiwithelesoithougdmemutasitisntitainttyatsgofic",
+            0.9960427891707762
+        ],
+        "RANK #202"
+    ],
+    [
+        [
+            "contrarihisecontindegtheegyegeeilithassoitwifutmeangilitheresoithodygmemdtasitisntitainttuatsyofic",
+            0.9958796883160644
+        ],
+        "RANK #203"
+    ],
+    [
+        [
+            "uontrarihiseuontingedtheedyedeeifithassoitwilctmeandifitheresoithogydmemgtasitisntitainttcatsyoliu",
+            0.9958377607551637
+        ],
+        "RANK #204"
+    ],
+    [
+        [
+            "gontrarihisegontincedtheedyedeeifithassoitwilutmeandifitheresoithocydmemctasitisntitainttuatsyolig",
+            0.9957578101582758
+        ],
+        "RANK #205"
+    ],
+    [
+        [
+            "contrarihisecontinuemtheemlemeeiwithassoityigftdeanmiwitheresoithoulmdedutasitisntitainttfatslogic",
+            0.9956322934480895
+        ],
+        "RANK #206"
+    ],
+    [
+        [
+            "contrarihiwecontinuedtheedledeeisithawwoityifgtmeandisitherewoithouldmemutawitiwntitainttgatwlofic",
+            0.9955655263590193
+        ],
+        "RANK #207"
+    ],
+    [
+        [
+            "uontrarihiseuontincedtheedledeeiwithassoityigftmeandiwitheresoithocldmemctasitisntitainttfatslogiu",
+            0.9953858030635669
+        ],
+        "RANK #208"
+    ],
+    [
+        [
+            "cantfofihirecantingedtheedmedeeiwithorraityilutseondiwitheferaithagmdsesgtoritirntitointtuotrmalic",
+            0.9952313793627661
+        ],
+        "RANK #209"
+    ],
+    [
+        [
+            "contrarihisecontingeltheelfeleeidithassoityiwutmeanliditheresoithogflmemgtasitisntitainttuatsfowic",
+            0.9952061579710076
+        ],
+        "RANK #210"
+    ],
+    [
+        [
+            "cantrorihisecantingedtheedyedeeifithossaitwilutmeondifitheresaithagydmemgtositisntitointtuotsyalic",
+            0.994717562270197
+        ],
+        "RANK #211"
+    ],
+    [
+        [
+            "contrarihisecontinuegtheeglegeeiwithassoityifdtmeangiwitheresoithoulgmemutasitisntitainttdatslofic",
+            0.9944155070952282
+        ],
+        "RANK #212"
+    ],
+    [
+        [
+            "contsasihilecontingertheerwereeidithalloitfiuytmeanriditheseloithogwrmemgtalitilntitainttyatlwouic",
+            0.9942425740239265
+        ],
+        "RANK #213"
+    ],
+    [
+        [
+            "contrarihidecontingestheesleseeifithaddoityiwutmeansifitheredoithoglsmemgtaditidntitainttuatdlowic",
+            0.9941738854077069
+        ],
+        "RANK #214"
+    ],
+    [
+        [
+            "contrarihisecontingeltheelyeleeifithassoitwidutmeanlifitheresoithogylmemgtasitisntitainttuatsyodic",
+            0.9940637778466593
+        ],
+        "RANK #215"
+    ],
+    [
+        [
+            "contrarihifecontingedtheedyedeeisithaffoitwilutmeandisitherefoithogydmemgtafitifntitainttuatfyolic",
+            0.9940441784244161
+        ],
+        "RANK #216"
+    ],
+    [
+        [
+            "contmamihisecontingedtheedredeeilithassoitwifytueandilithemesoithogrdueugtasitisntitainttyatsrofic",
+            0.9933926584338633
+        ],
+        "RANK #217"
+    ],
+    [
+        [
+            "contrarihidecontingestheesyeseeifithaddoitwilutmeansifitheredoithogysmemgtaditidntitainttuatdyolic",
+            0.9931362849201669
+        ],
+        "RANK #218"
+    ],
+    [
+        [
+            "contrarihisecontingeytheeymeyeeiwithassoitdifutleanyiwitheresoithogmylelgtasitisntitainttuatsmofic",
+            0.9928221174519846
+        ],
+        "RANK #219"
+    ],
+    [
+        [
+            "costrarihinecostisuedtheedledeeiwithannoityifgtmeasdiwitherenoithouldmemutanitinstitaisttgatnlofic",
+            0.9926879448978304
+        ],
+        "RANK #220"
+    ],
+    [
+        [
+            "contrarihifecontinuedtheedledeeiwithaffoityisgtmeandiwitherefoithouldmemutafitifntitainttgatflosic",
+            0.9926868066686924
+        ],
+        "RANK #221"
+    ],
+    [
+        [
+            "contsasihilecontingertheerwereeifithalloitmiyutdeanrifitheseloithogwrdedgtalitilntitainttuatlwoyic",
+            0.9926146001396494
+        ],
+        "RANK #222"
+    ],
+    [
+        [
+            "contrarihifecontinuedtheedledeeiwithaffoitgisytmeandiwitherefoithouldmemutafitifntitainttyatflosic",
+            0.9912153855501863
+        ],
+        "RANK #223"
+    ],
+    [
+        [
+            "contdadihilecontinuertheerfereeisithalloityigwtmeanrisithedeloithoufrmemutalitilntitainttwatlfogic",
+            0.9909728936283434
+        ],
+        "RANK #224"
+    ],
+    [
+        [
+            "cantfofihirecantingestheesdeseeiwithorraituilytmeonsiwitheferaithagdsmemgtoritirntitointtyotrdalic",
+            0.9909686516488124
+        ],
+        "RANK #225"
+    ],
+    [
+        [
+            "cantfofihirecantingestheesdeseeiwithorraityilutmeonsiwitheferaithagdsmemgtoritirntitointtuotrdalic",
+            0.9908209873557285
+        ],
+        "RANK #226"
+    ],
+    [
+        [
+            "contrarihigecontinsedtheedmedeeiwithaggoityifutleandiwitheregoithosmdlelstagitigntitainttuatgmofic",
+            0.9906667697389874
+        ],
+        "RANK #227"
+    ],
+    [
+        [
+            "wontrarihilewontingestheesceseeifithalloitmiuytdeansifithereloithogcsdedgtalitilntitainttyatlcouiw",
+            0.9902334887525607
+        ],
+        "RANK #228"
+    ],
+    [
+        [
+            "contlalihisecontingedtheedyedeeifithassoitwirutmeandifithelesoithogydmemgtasitisntitainttuatsyoric",
+            0.9901845670484292
+        ],
+        "RANK #229"
+    ],
+    [
+        [
+            "contsasihilecontingertheerwereeifithalloitdiuytmeanrifitheseloithogwrmemgtalitilntitainttyatlwouic",
+            0.990146277762102
+        ],
+        "RANK #230"
+    ],
+    [
+        [
+            "uontrarihiseuontingedtheedyedeeifithassoitliwctmeandifitheresoithogydmemgtasitisntitainttcatsyowiu",
+            0.9899472002293334
+        ],
+        "RANK #231"
+    ],
+    [
+        [
+            "cantrorihisecantingedtheedfedeeilithossaityiwutmeondilitheresaithagfdmemgtositisntitointtuotsfawic",
+            0.989749212610678
+        ],
+        "RANK #232"
+    ],
+    [
+        [
+            "contlalihirecontingestheesyeseeimitharroituiwftdeansimitheleroithogysdedgtaritirntitainttfatryowic",
+            0.988999084954664
+        ],
+        "RANK #233"
+    ],
+    [
+        [
+            "cantrorihisecantingedtheedmedeeilithossaitwifytueondilitheresaithagmdueugtositisntitointtyotsmafic",
+            0.9887552763148901
+        ],
+        "RANK #234"
+    ],
+    [
+        [
+            "contrarihisecontingewtheewleweeidithassoityifutmeanwiditheresoithoglwmemgtasitisntitainttuatslofic",
+            0.9884198949376038
+        ],
+        "RANK #235"
+    ],
+    [
+        [
+            "rontcacihiserontingedtheedmedeeiwithassoityifutleandiwithecesoithogmdlelgtasitisntitainttuatsmofir",
+            0.9883749645469182
+        ],
+        "RANK #236"
+    ],
+    [
+        [
+            "cantlolihirecantingestheesmeseeiwithorraituifytdeonsiwitheleraithagmsdedgtoritirntitointtyotrmafic",
+            0.987783141336921
+        ],
+        "RANK #237"
+    ],
+    [
+        [
+            "contrarihisecontindegtheegfegeeilithassoityiwutmeangilitheresoithodfgmemdtasitisntitainttuatsfowic",
+            0.9876576306323127
+        ],
+        "RANK #238"
+    ],
+    [
+        [
+            "cantfofihirecantingestheesmeseeilithorraityiwutdeonsilitheferaithagmsdedgtoritirntitointtuotrmawic",
+            0.9874214696753145
+        ],
+        "RANK #239"
+    ],
+    [
+        [
+            "cwntrarihisecwntingedtheedfedeeilithasswityioutmeandilithereswithwgfdmemgtasitisntitainttuatsfwoic",
+            0.9870747039514076
+        ],
+        "RANK #240"
+    ],
+    [
+        [
+            "contrarihisecontinueytheeyleyeeiwithassoitdifgtmeanyiwitheresoithoulymemutasitisntitainttgatslofic",
+            0.9869943253225333
+        ],
+        "RANK #241"
+    ],
+    [
+        [
+            "contrarihigecontinuedtheedledeeiwithaggoityisftmeandiwitheregoithouldmemutagitigntitainttfatglosic",
+            0.9867782892161354
+        ],
+        "RANK #242"
+    ],
+    [
+        [
+            "dontrarihisedontinuectheecleceeiwithassoitgifytmeanciwitheresoithoulcmemutasitisntitainttyatslofid",
+            0.9867296326448837
+        ],
+        "RANK #243"
+    ],
+    [
+        [
+            "cantrorihisecantinuedtheedledeeiwithossaityigftmeondiwitheresaithauldmemutositisntitointtfotslagic",
+            0.9865923930257303
+        ],
+        "RANK #244"
+    ],
+    [
+        [
+            "contwawihisecontingedtheedfedeeilithassoityirutmeandilithewesoithogfdmemgtasitisntitainttuatsforic",
+            0.9865796442568113
+        ],
+        "RANK #245"
+    ],
+    [
+        [
+            "cantfofihirecantingestheesyeseeiwithorraituilmtdeonsiwitheferaithagysdedgtoritirntitointtmotryalic",
+            0.9862982570809881
+        ],
+        "RANK #246"
+    ],
+    [
+        [
+            "contrarihisecontingewtheewfeweeilithassoityidutmeanwilitheresoithogfwmemgtasitisntitainttuatsfodic",
+            0.9860267846129197
+        ],
+        "RANK #247"
+    ],
+    [
+        [
+            "contuauihilecontingestheesweseeidithalloityifmtreansiditheueloithogwsrergtalitilntitainttmatlwofic",
+            0.9859183977262351
+        ],
+        "RANK #248"
+    ],
+    [
+        [
+            "cantfofihirecantingestheesleseeiwithorraituimytdeonsiwitheferaithaglsdedgtoritirntitointtyotrlamic",
+            0.9858980705973894
+        ],
+        "RANK #249"
+    ],
+    [
+        [
+            "wontrarihilewontingestheesueseeifithalloitmicytdeansifithereloithogusdedgtalitilntitainttyatluociw",
+            0.9858787991970173
+        ],
+        "RANK #250"
+    ],
+    [
+        [
+            "sontuauihilesontingedtheedyedeeicithalloitwifmtreandicitheueloithogydrergtalitilntitainttmatlyofis",
+            0.9856374751220592
+        ],
+        "RANK #251"
+    ],
+    [
+        [
+            "cuntrarihisecuntingedtheedfedeeilithassuityiwotmeandilitheresuithugfdmemgtasitisntitainttoatsfuwic",
+            0.9854504461293335
+        ],
+        "RANK #252"
+    ],
+    [
+        [
+            "rontcacihiserontinuedtheedledeeiwithassoityifgtmeandiwithecesoithouldmemutasitisntitainttgatslofir",
+            0.9853159879480534
+        ],
+        "RANK #253"
+    ],
+    [
+        [
+            "contmamihilecontingertheerwereeifithalloitdiuytseanrifithemeloithogwrsesgtalitilntitainttyatlwouic",
+            0.9847878750898148
+        ],
+        "RANK #254"
+    ],
+    [
+        [
+            "dontrarihisedontingectheecfeceeilithassoityiwutmeancilitheresoithogfcmemgtasitisntitainttuatsfowid",
+            0.9847800659238211
+        ],
+        "RANK #255"
+    ],
+    [
+        [
+            "contrarihisecontindeutheeugeueeiwithassoityifltmeanuiwitheresoithodgumemdtasitisntitainttlatsgofic",
+            0.9846172699243307
+        ],
+        "RANK #256"
+    ],
+    [
+        [
+            "contlalihisecontingedtheedmedeeirithassoitwifytueandirithelesoithogmdueugtasitisntitainttyatsmofic",
+            0.9844707347384997
+        ],
+        "RANK #257"
+    ],
+    [
+        [
+            "contuauihisecontingedtheedledeeiwithassoityifrtmeandiwitheuesoithogldmemgtasitisntitainttratslofic",
+            0.9844092289664857
+        ],
+        "RANK #258"
+    ],
+    [
+        [
+            "contrarihifecontingedtheedsedeeilithaffoityiwutmeandilitherefoithogsdmemgtafitifntitainttuatfsowic",
+            0.9841129792023463
+        ],
+        "RANK #259"
+    ],
+    [
+        [
+            "contfafihisecontingedtheedredeeilithassoityiwutmeandilithefesoithogrdmemgtasitisntitainttuatsrowic",
+            0.9836342441541515
+        ],
+        "RANK #260"
+    ],
+    [
+        [
+            "montsasihilemontingertheerwereeicithalloitfiuytdeanricitheseloithogwrdedgtalitilntitainttyatlwouim",
+            0.9833811570612995
+        ],
+        "RANK #261"
+    ],
+    [
+        [
+            "cuntrarihisecuntingedtheedyedeeifithassuitwilotmeandifitheresuithugydmemgtasitisntitainttoatsyulic",
+            0.983354901475793
+        ],
+        "RANK #262"
+    ],
+    [
+        [
+            "contgagihisecontinuedtheedledeeiwithassoitfirytmeandiwithegesoithouldmemutasitisntitainttyatsloric",
+            0.9833356021851287
+        ],
+        "RANK #263"
+    ],
+    [
+        [
+            "wontmamihilewontingestheesceseeidithalloityifutreansidithemeloithogcsrergtalitilntitainttuatlcofiw",
+            0.9829982310449947
+        ],
+        "RANK #264"
+    ],
+    [
+        [
+            "costrarihinecostisuedtheedledeeiwithannoityigftmeasdiwitherenoithouldmemutanitinstitaisttfatnlogic",
+            0.9827143115761872
+        ],
+        "RANK #265"
+    ],
+    [
+        [
+            "contmamihilecontinfestheesweseeidithalloityigutreansidithemeloithofwsrerftalitilntitainttuatlwogic",
+            0.982455007417174
+        ],
+        "RANK #266"
+    ],
+    [
+        [
+            "cantrorihisecantinuedtheedledeeiwithossaityifgtmeondiwitheresaithauldmemutositisntitointtgotslafic",
+            0.9823957943496433
+        ],
+        "RANK #267"
+    ],
+    [
+        [
+            "contrarihifecontinuedtheedgedeeiwithaffoitsilytmeandiwitherefoithougdmemutafitifntitainttyatfgolic",
+            0.9822628193665911
+        ],
+        "RANK #268"
+    ],
+    [
+        [
+            "contyayihisecontingedtheedmedeeiwithassoitrifutleandiwitheyesoithogmdlelgtasitisntitainttuatsmofic",
+            0.981880514139801
+        ],
+        "RANK #269"
+    ],
+    [
+        [
+            "yantfofihireyantingestheesmeseeiwithorraituilctdeonsiwitheferaithagmsdedgtoritirntitointtcotrmaliy",
+            0.9816146598318745
+        ],
+        "RANK #270"
+    ],
+    [
+        [
+            "contrarihiwecontingedtheedfedeeilithawwoityisutmeandilitherewoithogfdmemgtawitiwntitainttuatwfosic",
+            0.9813689748196281
+        ],
+        "RANK #271"
+    ],
+    [
+        [
+            "contsasihilecontingertheerwereeifithalloitdiumtyeanrifitheseloithogwryeygtalitilntitainttmatlwouic",
+            0.9811107628379447
+        ],
+        "RANK #272"
+    ],
+    [
+        [
+            "contuauihilecontingertheermereeiwithalloitfisytdeanriwitheueloithogmrdedgtalitilntitainttyatlmosic",
+            0.9810499679468389
+        ],
+        "RANK #273"
+    ],
+    [
+        [
+            "dontrarihisedontinuectheecgeceeiwithassoitlifytmeanciwitheresoithougcmemutasitisntitainttyatsgofid",
+            0.9807818091013806
+        ],
+        "RANK #274"
+    ],
+    [
+        [
+            "dontmamihiledontingestheesfeseeicithalloityiwutreansicithemeloithogfsrergtalitilntitainttuatlfowid",
+            0.9807397415027558
+        ],
+        "RANK #275"
+    ],
+    [
+        [
+            "contrarihiyecontingedtheedsedeeilithayyoitwifutmeandilithereyoithogsdmemgtayitiyntitainttuatysofic",
+            0.9807302837376565
+        ],
+        "RANK #276"
+    ],
+    [
+        [
+            "contrarihisecontingeftheeflefeeidithassoityiwutmeanfiditheresoithoglfmemgtasitisntitainttuatslowic",
+            0.980390348862271
+        ],
+        "RANK #277"
+    ],
+    [
+        [
+            "contyayihisecontinuedtheedledeeiwithassoitfigrtmeandiwitheyesoithouldmemutasitisntitainttratslogic",
+            0.980315156924167
+        ],
+        "RANK #278"
+    ],
+    [
+        [
+            "contrarihisecontinueftheeflefeeiwithassoityidgtmeanfiwitheresoithoulfmemutasitisntitainttgatslodic",
+            0.9802199894683103
+        ],
+        "RANK #279"
+    ],
+    [
+        [
+            "contrarihisecontindegtheegyegeeifithassoitwilutmeangifitheresoithodygmemdtasitisntitainttuatsyolic",
+            0.9801345100396286
+        ],
+        "RANK #280"
+    ],
+    [
+        [
+            "contwawihisecontinuedtheedledeeirithassoityifgtmeandirithewesoithouldmemutasitisntitainttgatslofic",
+            0.9795932302480272
+        ],
+        "RANK #281"
+    ],
+    [
+        [
+            "mantfofihiremantingedtheedledeeiwithorraityiuctseondiwitheferaithagldsesgtoritirntitointtcotrlauim",
+            0.9794629788211607
+        ],
+        "RANK #282"
+    ],
+    [
+        [
+            "cantfofihirecantingestheesyeseeimithorraituilwtdeonsimitheferaithagysdedgtoritirntitointtwotryalic",
+            0.9794188488578048
+        ],
+        "RANK #283"
+    ],
+    [
+        [
+            "contrarihisecontindeutheeugeueeiwithassoitfilytmeanuiwitheresoithodgumemdtasitisntitainttyatsgolic",
+            0.9791616330335594
+        ],
+        "RANK #284"
+    ],
+    [
+        [
+            "contrarihisecontingeftheefyefeeidithassoitwilutmeanfiditheresoithogyfmemgtasitisntitainttuatsyolic",
+            0.9791478601778739
+        ],
+        "RANK #285"
+    ],
+    [
+        [
+            "cantfofihirecantingedtheedmedeeilithorraityiwutseondilitheferaithagmdsesgtoritirntitointtuotrmawic",
+            0.9787326201461549
+        ],
+        "RANK #286"
+    ],
+    [
+        [
+            "contrarihiuecontinsedtheedledeeiwithauuoityifgtmeandiwithereuoithosldmemstauitiuntitainttgatulofic",
+            0.9785109382585331
+        ],
+        "RANK #287"
+    ],
+    [
+        [
+            "contwawihisecontingedtheedyedeeilithassoitrifutmeandilithewesoithogydmemgtasitisntitainttuatsyofic",
+            0.9782627813083307
+        ],
+        "RANK #288"
+    ],
+    [
+        [
+            "contrarihiyecontinuedtheedledeeiwithayyoitsifgtmeandiwithereyoithouldmemutayitiyntitainttgatylofic",
+            0.9782406478992745
+        ],
+        "RANK #289"
+    ],
+    [
+        [
+            "contdadihirecontingestheesyeseeimitharroituiwftleansimithederoithogyslelgtaritirntitainttfatryowic",
+            0.978228825572552
+        ],
+        "RANK #290"
+    ],
+    [
+        [
+            "contuauihilecontingertheerfereeiwithalloitmisytdeanriwitheueloithogfrdedgtalitilntitainttyatlfosic",
+            0.9781265086708663
+        ],
+        "RANK #291"
+    ],
+    [
+        [
+            "cantfofihirecantingestheesmeseeiyithorraituilwtdeonsiyitheferaithagmsdedgtoritirntitointtwotrmalic",
+            0.977699283874132
+        ],
+        "RANK #292"
+    ],
+    [
+        [
+            "contrarihilecontingemtheemfemeeiwithalloitsiuytdeanmiwithereloithogfmdedgtalitilntitainttyatlfouic",
+            0.9775552890141327
+        ],
+        "RANK #293"
+    ],
+    [
+        [
+            "contrarihisecontingeytheeyfeyeeilithassoitdiwutmeanyilitheresoithogfymemgtasitisntitainttuatsfowic",
+            0.9775380944281807
+        ],
+        "RANK #294"
+    ],
+    [
+        [
+            "contrarihisecontingewtheewmeweeilithassoitdifytueanwilitheresoithogmwueugtasitisntitainttyatsmofic",
+            0.9768349690984097
+        ],
+        "RANK #295"
+    ],
+    [
+        [
+            "contrarihisecontingeftheefmefeeilithassoitwidutyeanfilitheresoithogmfyeygtasitisntitainttuatsmodic",
+            0.9763538893327475
+        ],
+        "RANK #296"
+    ],
+    [
+        [
+            "cantfofihirecantingestheesleseeimithorraityiwutdeonsimitheferaithaglsdedgtoritirntitointtuotrlawic",
+            0.97630961487449
+        ],
+        "RANK #297"
+    ],
+    [
+        [
+            "gontrarihilegontinsedtheedfedeeiuithalloityiwctmeandiuithereloithosfdmemstalitilntitainttcatlfowig",
+            0.9760819532401979
+        ],
+        "RANK #298"
+    ],
+    [
+        [
+            "contrarihigecontinsedtheedmedeeilithaggoitwifytueandilitheregoithosmdueustagitigntitainttyatgmofic",
+            0.9757305092616277
+        ],
+        "RANK #299"
+    ],
+    [
+        [
+            "dontrarihisedontingectheecyeceeifithassoitwilutmeancifitheresoithogycmemgtasitisntitainttuatsyolid",
+            0.9756202665950772
+        ],
+        "RANK #300"
+    ],
+    [
+        [
+            "rontcacihiserontingedtheedmedeeilithassoitwifutyeandilithecesoithogmdyeygtasitisntitainttuatsmofir",
+            0.9755083537013323
+        ],
+        "RANK #301"
+    ],
+    [
+        [
+            "contrarihigecontinsedtheedfedeeilithaggoityiwutmeandilitheregoithosfdmemstagitigntitainttuatgfowic",
+            0.9754744540340776
+        ],
+        "RANK #302"
+    ],
+    [
+        [
+            "csntrarihioecsntingedtheedfedeeilithaoosityiwutmeandilithereosithsgfdmemgtaoitiontitainttuatofswic",
+            0.9753536669144295
+        ],
+        "RANK #303"
+    ],
+    [
+        [
+            "contuauihisecontinredtheedledeeiwithassoityifgtmeandiwitheuesoithorldmemrtasitisntitainttgatslofic",
+            0.9751771074237398
+        ],
+        "RANK #304"
+    ],
+    [
+        [
+            "cantfofihirecantingedtheedmedeeiyithorraitwilutseondiyitheferaithagmdsesgtoritirntitointtuotrmalic",
+            0.9750032356112788
+        ],
+        "RANK #305"
+    ],
+    [
+        [
+            "contuauihilecontingertheerdereeiwithalloitfisytmeanriwitheueloithogdrmemgtalitilntitainttyatldosic",
+            0.9748256487907399
+        ],
+        "RANK #306"
+    ],
+    [
+        [
+            "contyayihisecontingedtheedmedeeilithassoitwifrtueandilitheyesoithogmdueugtasitisntitainttratsmofic",
+            0.9744983693301121
+        ],
+        "RANK #307"
+    ],
+    [
+        [
+            "contsasihilecontingertheerwereeidithalloitmiyutfeanriditheseloithogwrfefgtalitilntitainttuatlwoyic",
+            0.9744084148913814
+        ],
+        "RANK #308"
+    ],
+    [
+        [
+            "costrarihinecostisgedtheedledeeiwithannoityifutmeasdiwitherenoithogldmemgtanitinstitaisttuatnlofic",
+            0.9743150248479517
+        ],
+        "RANK #309"
+    ],
+    [
+        [
+            "contrarihiuecontinsedtheedgedeeiwithauuoityifltmeandiwithereuoithosgdmemstauitiuntitainttlatugofic",
+            0.9742597003781699
+        ],
+        "RANK #310"
+    ],
+    [
+        [
+            "contmamihilecontingertheerwereeiyithalloitdiuftseanriyithemeloithogwrsesgtalitilntitainttfatlwouic",
+            0.9741269752794849
+        ],
+        "RANK #311"
+    ],
+    [
+        [
+            "contsasihilecontingedtheedwedeeirithalloitfiuytmeandiritheseloithogwdmemgtalitilntitainttyatlwouic",
+            0.9740987812998639
+        ],
+        "RANK #312"
+    ],
+    [
+        [
+            "mantfofihiremantingedtheedledeeiwithorraityisctueondiwitheferaithagldueugtoritirntitointtcotrlasim",
+            0.9740669906437726
+        ],
+        "RANK #313"
+    ],
+    [
+        [
+            "contsasihilecontingertheerwereeimithalloitdiyutfeanrimitheseloithogwrfefgtalitilntitainttuatlwoyic",
+            0.9737999202404812
+        ],
+        "RANK #314"
+    ],
+    [
+        [
+            "contrarihisecontingeutheeumeueeilithassoitwifdtyeanuilitheresoithogmuyeygtasitisntitainttdatsmofic",
+            0.9737464185681433
+        ],
+        "RANK #315"
+    ],
+    [
+        [
+            "rontcacihiserontingedtheedfedeeilithassoityiwutmeandilithecesoithogfdmemgtasitisntitainttuatsfowir",
+            0.9737120146039291
+        ],
+        "RANK #316"
+    ],
+    [
+        [
+            "contfafihisecontingedtheedyedeeilithassoitwirutmeandilithefesoithogydmemgtasitisntitainttuatsyoric",
+            0.9737003364358633
+        ],
+        "RANK #317"
+    ],
+    [
+        [
+            "wintraroholewintonsedtheedmedeeofothalliotyocutgeandofothereliothismdgegstalotolntotaonttuatlmicow",
+            0.973376005498656
+        ],
+        "RANK #318"
+    ],
+    [
+        [
+            "gontrarihilegontinmedtheedfedeeiuithalloityiwctseandiuithereloithomfdsesmtalitilntitainttcatlfowig",
+            0.9728476113727927
+        ],
+        "RANK #319"
+    ],
+    [
+        [
+            "contwawihisecontingedtheedmedeeilithassoitrifutyeandilithewesoithogmdyeygtasitisntitainttuatsmofic",
+            0.972127614959243
+        ],
+        "RANK #320"
+    ],
+    [
+        [
+            "contlalihifecontingedtheedyedeeisithaffoitmiuwtreandisithelefoithogydrergtafitifntitainttwatfyouic",
+            0.9721237605533555
+        ],
+        "RANK #321"
+    ],
+    [
+        [
+            "contrarihiwecontingedtheedmedeeilithawwoitsifutyeandilitherewoithogmdyeygtawitiwntitainttuatwmofic",
+            0.9719513360302324
+        ],
+        "RANK #322"
+    ],
+    [
+        [
+            "contwawihilecontingertheerdereeifithalloituisytmeanrifitheweloithogdrmemgtalitilntitainttyatldosic",
+            0.971891096830922
+        ],
+        "RANK #323"
+    ],
+    [
+        [
+            "contlalihisecontingedtheedfedeeirithassoitmiuytweandirithelesoithogfdwewgtasitisntitainttyatsfouic",
+            0.9717762066866349
+        ],
+        "RANK #324"
+    ],
+    [
+        [
+            "contrarihisecontingewtheewyeweeifithassoitdilutmeanwifitheresoithogywmemgtasitisntitainttuatsyolic",
+            0.9716292778441147
+        ],
+        "RANK #325"
+    ],
+    [
+        [
+            "contrarihisecontindegtheegyegeeifithassoitliwutmeangifitheresoithodygmemdtasitisntitainttuatsyowic",
+            0.9715338337526583
+        ],
+        "RANK #326"
+    ],
+    [
+        [
+            "contfafihisecontinuedtheedgedeeiwithassoityirltmeandiwithefesoithougdmemutasitisntitainttlatsgoric",
+            0.9711732715987607
+        ],
+        "RANK #327"
+    ],
+    [
+        [
+            "cantfofihirecantingestheesleseeimithorraityiuwtdeonsimitheferaithaglsdedgtoritirntitointtwotrlauic",
+            0.9710494384055194
+        ],
+        "RANK #328"
+    ],
+    [
+        [
+            "contrarihisecontinuewtheewleweeidithassoityigftmeanwiditheresoithoulwmemutasitisntitainttfatslogic",
+            0.9707836488367954
+        ],
+        "RANK #329"
+    ],
+    [
+        [
+            "wontmamihilewontingestheesfeseeicithalloityidutreansicithemeloithogfsrergtalitilntitainttuatlfodiw",
+            0.9706349639838461
+        ],
+        "RANK #330"
+    ],
+    [
+        [
+            "cantmomihirecantingestheesleseeifithorraityiuwtdeonsifithemeraithaglsdedgtoritirntitointtwotrlauic",
+            0.9703845770211891
+        ],
+        "RANK #331"
+    ],
+    [
+        [
+            "cwntrarihisecwntingedtheedmedeeilithasswitoifutyeandilithereswithwgmdyeygtasitisntitainttuatsmwfic",
+            0.970355484498035
+        ],
+        "RANK #332"
+    ],
+    [
+        [
+            "contrarihiuecontingedtheedmedeeilithauuoitwifstyeandilithereuoithogmdyeygtauitiuntitainttsatumofic",
+            0.9702389172225763
+        ],
+        "RANK #333"
+    ],
+    [
+        [
+            "wantfofihirewantingestheesyeseeimithorraituilctdeonsimitheferaithagysdedgtoritirntitointtcotryaliw",
+            0.9701510294169119
+        ],
+        "RANK #334"
+    ],
+    [
+        [
+            "mantcocihiremantingedtheedledeeiwithorraityiuftseondiwitheceraithagldsesgtoritirntitointtfotrlauim",
+            0.9699998302541766
+        ],
+        "RANK #335"
+    ],
+    [
+        [
+            "fontrarihimefontingestheesleseeicithammoitwiuytdeansicitheremoithoglsdedgtamitimntitainttyatmlouif",
+            0.969702858709227
+        ],
+        "RANK #336"
+    ],
+    [
+        [
+            "cwntrarihisecwntingedtheedyedeeifithasswitoilutmeandifithereswithwgydmemgtasitisntitainttuatsywlic",
+            0.9696415762023619
+        ],
+        "RANK #337"
+    ],
+    [
+        [
+            "wintlalohorewintonsedtheedmedeeofotharriotyocutgeandofotheleriothismdgegstarotorntotaonttuatrmicow",
+            0.9695518334957414
+        ],
+        "RANK #338"
+    ],
+    [
+        [
+            "wontmamihilewontingestheesfeseeidithalloityicutreansidithemeloithogfsrergtalitilntitainttuatlfociw",
+            0.9692285370646354
+        ],
+        "RANK #339"
+    ],
+    [
+        [
+            "contfafihisecontinuedtheedgedeeiwithassoitlirytmeandiwithefesoithougdmemutasitisntitainttyatsgoric",
+            0.9690259142025008
+        ],
+        "RANK #340"
+    ],
+    [
+        [
+            "fontmamihirefontingestheesleseeicitharroitwiuytdeansicithemeroithoglsdedgtaritirntitainttyatrlouif",
+            0.9690042668439255
+        ],
+        "RANK #341"
+    ],
+    [
+        [
+            "contmamihilecontingertheerwereeiyithalloitsiuftdeanriyithemeloithogwrdedgtalitilntitainttfatlwouic",
+            0.9689350275937479
+        ],
+        "RANK #342"
+    ],
+    [
+        [
+            "lontsasihicelontingertheerfereeiwithaccoitmiyutdeanriwithesecoithogfrdedgtaciticntitainttuatcfoyil",
+            0.9688591535099519
+        ],
+        "RANK #343"
+    ],
+    [
+        [
+            "wintraroholewintonsedtheedmedeeofothalliotgocutyeandofothereliothismdyeystalotolntotaonttuatlmicow",
+            0.9688327895230927
+        ],
+        "RANK #344"
+    ],
+    [
+        [
+            "contrarihiuecontingedtheedfedeeilithauuoityiwstmeandilithereuoithogfdmemgtauitiuntitainttsatufowic",
+            0.9688211784425426
+        ],
+        "RANK #345"
+    ],
+    [
+        [
+            "cfntrarihisecfntingedtheedmedeeilithassfitwioutyeandilitheresfithfgmdyeygtasitisntitainttuatsmfoic",
+            0.9686919051996642
+        ],
+        "RANK #346"
+    ],
+    [
+        [
+            "rontlalihiserontingedtheedfedeeicithassoitmiuytweandicithelesoithogfdwewgtasitisntitainttyatsfouir",
+            0.968641771706438
+        ],
+        "RANK #347"
+    ],
+    [
+        [
+            "contgagihisecontinredtheedfedeeilithassoityiwutmeandilithegesoithorfdmemrtasitisntitainttuatsfowic",
+            0.9686366638551123
+        ],
+        "RANK #348"
+    ],
+    [
+        [
+            "contrurihisecontingedtheedfedeeilithussoityiwatmeundilitheresoithogfdmemgtusitisntituinttautsfowic",
+            0.9685127523257587
+        ],
+        "RANK #349"
+    ],
+    [
+        [
+            "cantlolihirecantingestheesyeseeimithorraituifwtdeonsimitheleraithagysdedgtoritirntitointtwotryafic",
+            0.9683770214300085
+        ],
+        "RANK #350"
+    ],
+    [
+        [
+            "contrarihisecontinueytheeymeyeeidithassoitwifltgeanyiditheresoithoumygegutasitisntitainttlatsmofic",
+            0.9683696506655319
+        ],
+        "RANK #351"
+    ],
+    [
+        [
+            "cantlolihirecantingestheesyeseeimithorraituiwftdeonsimitheleraithagysdedgtoritirntitointtfotryawic",
+            0.9683648192253282
+        ],
+        "RANK #352"
+    ],
+    [
+        [
+            "contrarihigecontinsedtheedyedeeifithaggoitwilutmeandifitheregoithosydmemstagitigntitainttuatgyolic",
+            0.9683467119117737
+        ],
+        "RANK #353"
+    ],
+    [
+        [
+            "contuauihisecontingedtheedfedeeilithassoityiwrtmeandilitheuesoithogfdmemgtasitisntitainttratsfowic",
+            0.9678874516147046
+        ],
+        "RANK #354"
+    ],
+    [
+        [
+            "contrurihisecontinaedtheedledeeiwithussoityifgtmeundiwitheresoithoaldmematusitisntituinttgutslofic",
+            0.9676679374859318
+        ],
+        "RANK #355"
+    ],
+    [
+        [
+            "contrarihiuecontingedtheedledeeifithauuoityiwstmeandifithereuoithogldmemgtauitiuntitainttsatulowic",
+            0.9675790031105904
+        ],
+        "RANK #356"
+    ],
+    [
+        [
+            "contwawihisecontinuedtheedgedeeirithassoitlifytmeandirithewesoithougdmemutasitisntitainttyatsgofic",
+            0.9674708176566404
+        ],
+        "RANK #357"
+    ],
+    [
+        [
+            "contrurihisecontingedtheedmedeeilithussoitwifatyeundilitheresoithogmdyeygtusitisntituinttautsmofic",
+            0.9674484297969446
+        ],
+        "RANK #358"
+    ],
+    [
+        [
+            "contuauihilecontinfertheermereeiwithalloitgisytdeanriwitheueloithofmrdedftalitilntitainttyatlmosic",
+            0.9672561553583993
+        ],
+        "RANK #359"
+    ],
+    [
+        [
+            "contuauihisecontinredtheedgedeeiwithassoitfilytmeandiwitheuesoithorgdmemrtasitisntitainttyatsgolic",
+            0.9671944749480155
+        ],
+        "RANK #360"
+    ],
+    [
+        [
+            "uintraroholeuintonsedtheedmedeeofothalliotyocwtgeandofothereliothismdgegstalotolntotaonttwatlmicou",
+            0.9670318573646682
+        ],
+        "RANK #361"
+    ],
+    [
+        [
+            "wintmamohorewintonsedtheedledeeofotharriotyocutgeandofothemeriothisldgegstarotorntotaonttuatrlicow",
+            0.9669956870809338
+        ],
+        "RANK #362"
+    ],
+    [
+        [
+            "ocntrarihiseocntingedtheedledeeiwithasscityifutmeandiwitherescithcgldmemgtasitisntitainttuatslcfio",
+            0.9669798432520013
+        ],
+        "RANK #363"
+    ],
+    [
+        [
+            "contrarihiwecontingedtheedmedeeilithawwoitsifytueandilitherewoithogmdueugtawitiwntitainttyatwmofic",
+            0.9669764158684383
+        ],
+        "RANK #364"
+    ],
+    [
+        [
+            "contyayihisecontingedtheedfedeeilithassoitriwutmeandilitheyesoithogfdmemgtasitisntitainttuatsfowic",
+            0.9667741187582078
+        ],
+        "RANK #365"
+    ],
+    [
+        [
+            "cuntrarihisecuntinoedtheedledeeiwithassuityigftmeandiwitheresuithuoldmemotasitisntitainttfatslugic",
+            0.9667295726672287
+        ],
+        "RANK #366"
+    ],
+    [
+        [
+            "contrarihilecontinueftheefdefeeisithalloityigwtmeanfisithereloithoudfmemutalitilntitainttwatldogic",
+            0.9667067388999274
+        ],
+        "RANK #367"
+    ],
+    [
+        [
+            "contuauihilecontingertheerdereeifithalloitwisytmeanrifitheueloithogdrmemgtalitilntitainttyatldosic",
+            0.9665769785203986
+        ],
+        "RANK #368"
+    ],
+    [
+        [
+            "contsasihilecontingertheerwereeimithalloitfiydtueanrimitheseloithogwrueugtalitilntitainttdatlwoyic",
+            0.9664762490368801
+        ],
+        "RANK #369"
+    ],
+    [
+        [
+            "fintraroholefintonsedtheedgedeeouothalliotyocwtmeandouothereliothisgdmemstalotolntotaonttwatlgicof",
+            0.966464297631717
+        ],
+        "RANK #370"
+    ],
+    [
+        [
+            "cuntrarihisecuntinoedtheedledeeiwithassuityifgtmeandiwitheresuithuoldmemotasitisntitainttgatslufic",
+            0.9664007521207998
+        ],
+        "RANK #371"
+    ],
+    [
+        [
+            "contmamihilecontingertheerwereeiuithalloitdiyftseanriuithemeloithogwrsesgtalitilntitainttfatlwoyic",
+            0.9662962135070775
+        ],
+        "RANK #372"
+    ],
+    [
+        [
+            "contrarihiyecontingedtheedsedeeifithayyoitwilutmeandifithereyoithogsdmemgtayitiyntitainttuatysolic",
+            0.966001958218753
+        ],
+        "RANK #373"
+    ],
+    [
+        [
+            "mantfofihiremantingedtheedledeeiwithorraityicstueondiwitheferaithagldueugtoritirntitointtsotrlacim",
+            0.9659401872137714
+        ],
+        "RANK #374"
+    ],
+    [
+        [
+            "montrarihilemontingectheecfeceeiwithalloitsiuytdeanciwithereloithogfcdedgtalitilntitainttyatlfouim",
+            0.9658814717344012
+        ],
+        "RANK #375"
+    ],
+    [
+        [
+            "fontmamihirefontingestheesleseeicitharroitwiyutdeansicithemeroithoglsdedgtaritirntitainttuatrloyif",
+            0.965871399744308
+        ],
+        "RANK #376"
+    ],
+    [
+        [
+            "contrarihisecontingeutheeuyeueeifithassoitwildtmeanuifitheresoithogyumemgtasitisntitainttdatsyolic",
+            0.9657245256062799
+        ],
+        "RANK #377"
+    ],
+    [
+        [
+            "contwawihisecontingedtheedyedeeifithassoitlirutmeandifithewesoithogydmemgtasitisntitainttuatsyoric",
+            0.9656789788072059
+        ],
+        "RANK #378"
+    ],
+    [
+        [
+            "rontcacihiserontingedtheedyedeeifithassoitwilutmeandifithecesoithogydmemgtasitisntitainttuatsyolir",
+            0.9655358891057885
+        ],
+        "RANK #379"
+    ],
+    [
+        [
+            "fontmamihilefontingestheesreseeicithalloityiwutdeansicithemeloithogrsdedgtalitilntitainttuatlrowif",
+            0.9655013996410193
+        ],
+        "RANK #380"
+    ],
+    [
+        [
+            "cantfofihirecantinwestheesmeseeigithorraituilytdeonsigitheferaithawmsdedwtoritirntitointtyotrmalic",
+            0.9654805539479066
+        ],
+        "RANK #381"
+    ],
+    [
+        [
+            "cantfofihirecantinwestheesmeseeigithorraityilutdeonsigitheferaithawmsdedwtoritirntitointtuotrmalic",
+            0.9653296533693886
+        ],
+        "RANK #382"
+    ],
+    [
+        [
+            "wintlalohorewintoncedtheedgedeeofotharriotyomutseandofotheleriothicgdsesctarotorntotaonttuatrgimow",
+            0.9652839337039217
+        ],
+        "RANK #383"
+    ],
+    [
+        [
+            "contuauihisecontinredtheedledeeiwithassoityigftmeandiwitheuesoithorldmemrtasitisntitainttfatslogic",
+            0.9652094556788808
+        ],
+        "RANK #384"
+    ],
+    [
+        [
+            "wintlalohorewintongedtheedmedeeofotharriotyocutseandofotheleriothigmdsesgtarotorntotaonttuatrmicow",
+            0.9649694344768517
+        ],
+        "RANK #385"
+    ],
+    [
+        [
+            "rontlalihiserontingedtheedfedeeicithassoitmiyutweandicithelesoithogfdwewgtasitisntitainttuatsfoyir",
+            0.9647885211550857
+        ],
+        "RANK #386"
+    ],
+    [
+        [
+            "lontrarihiselontinuectheecgeceeidithassoityifmtweanciditheresoithougcwewutasitisntitainttmatsgofil",
+            0.9647439932891398
+        ],
+        "RANK #387"
+    ],
+    [
+        [
+            "wontsasihilewontingertheeruereeifithalloitmicytdeanrifitheseloithogurdedgtalitilntitainttyatluociw",
+            0.9646936926358151
+        ],
+        "RANK #388"
+    ],
+    [
+        [
+            "wantmomihirewantingestheesleseeifithorraityiuctdeonsifithemeraithaglsdedgtoritirntitointtcotrlauiw",
+            0.9645797303545666
+        ],
+        "RANK #389"
+    ],
+    [
+        [
+            "wintmomaharewintangestheesleseeacathorriatyauftdeonsacathemeriathiglsdedgtoratarntatoanttfotrliuaw",
+            0.9645649086257811
+        ],
+        "RANK #390"
+    ],
+    [
+        [
+            "contuauihisecontinredtheedledeeiwithassoitfigytmeandiwitheuesoithorldmemrtasitisntitainttyatslogic",
+            0.9642777011855106
+        ],
+        "RANK #391"
+    ],
+    [
+        [
+            "contgagihisecontinredtheedyedeeifithassoitwilutmeandifithegesoithorydmemrtasitisntitainttuatsyolic",
+            0.9639338959580576
+        ],
+        "RANK #392"
+    ],
+    [
+        [
+            "contfafihisecontingedtheedyedeeirithassoitwilutmeandirithefesoithogydmemgtasitisntitainttuatsyolic",
+            0.9638813898587443
+        ],
+        "RANK #393"
+    ],
+    [
+        [
+            "contwawihilecontingertheeryereeifithalloituisdtmeanrifitheweloithogyrmemgtalitilntitainttdatlyosic",
+            0.9638448944987827
+        ],
+        "RANK #394"
+    ],
+    [
+        [
+            "fintmomaharefintancestheesyeseeauathorriatgalwtdeonsauathemeriathicysdedctoratarntatoanttwotryilaf",
+            0.9638335011286752
+        ],
+        "RANK #395"
+    ],
+    [
+        [
+            "montrarihisemontinuectheecgeceeidithassoityifltweanciditheresoithougcwewutasitisntitainttlatsgofim",
+            0.9637385494181621
+        ],
+        "RANK #396"
+    ],
+    [
+        [
+            "contwawihilecontinuedtheedyedeeisithalloitfigrtmeandisitheweloithouydmemutalitilntitainttratlyogic",
+            0.9635486497266432
+        ],
+        "RANK #397"
+    ],
+    [
+        [
+            "contmamihilecontingertheeryereeifithalloituisdtweanrifithemeloithogyrwewgtalitilntitainttdatlyosic",
+            0.9633300994944219
+        ],
+        "RANK #398"
+    ],
+    [
+        [
+            "cantgogihirecantinfestheesmeseeiwithorraituilytdeonsiwithegeraithafmsdedftoritirntitointtyotrmalic",
+            0.9632466719325716
+        ],
+        "RANK #399"
+    ],
+    [
+        [
+            "uontrarihimeuontingestheesleseeicithammoitwifytdeansicitheremoithoglsdedgtamitimntitainttyatmlofiu",
+            0.9632234933199869
+        ],
+        "RANK #400"
+    ],
+    [
+        [
+            "fontmamihilefontingestheesreseeicithalloitwiuytdeansicithemeloithogrsdedgtalitilntitainttyatlrouif",
+            0.9629442660342454
+        ],
+        "RANK #401"
+    ],
+    [
+        [
+            "contrurihisecontingedtheedyedeeifithussoitwilatmeundifitheresoithogydmemgtusitisntituinttautsyolic",
+            0.9627893121411646
+        ],
+        "RANK #402"
+    ],
+    [
+        [
+            "contsasihidecontingertheerwereeifithaddoitliuytmeanrifithesedoithogwrmemgtaditidntitainttyatdwouic",
+            0.962688284384076
+        ],
+        "RANK #403"
+    ],
+    [
+        [
+            "rontmamihilerontingestheesfeseeicithalloityiwutdeansicithemeloithogfsdedgtalitilntitainttuatlfowir",
+            0.9626402544152212
+        ],
+        "RANK #404"
+    ],
+    [
+        [
+            "fintmomaharefintangestheesleseeacathorriatyauwtdeonsacathemeriathiglsdedgtoratarntatoanttwotrliuaf",
+            0.9621823546393649
+        ],
+        "RANK #405"
+    ],
+    [
+        [
+            "wintlalohorewintoncedtheedgedeeofotharriotyoumtseandofotheleriothicgdsesctarotorntotaonttmatrgiuow",
+            0.9620892669542003
+        ],
+        "RANK #406"
+    ],
+    [
+        [
+            "fontrarihisefontingeytheeymeyeeiwithassoituicltdeanyiwitheresoithogmydedgtasitisntitainttlatsmocif",
+            0.9619367135569242
+        ],
+        "RANK #407"
+    ],
+    [
+        [
+            "mintraroholemintonsedtheedgedeeouothalliotyofwtceandouothereliothisgdcecstalotolntotaonttwatlgifom",
+            0.9619084812919032
+        ],
+        "RANK #408"
+    ],
+    [
+        [
+            "dontrarihiledontingectheecfeceeiwithalloitsiuytmeanciwithereloithogfcmemgtalitilntitainttyatlfouid",
+            0.9618200348393776
+        ],
+        "RANK #409"
+    ],
+    [
+        [
+            "clntrarihiseclntingedtheedfedeeioithasslityiwutmeandioithereslithlgfdmemgtasitisntitainttuatsflwic",
+            0.9616191492752326
+        ],
+        "RANK #410"
+    ],
+    [
+        [
+            "contsasihirecontingeltheelyeleeimitharroituiwftdeanlimitheseroithogyldedgtaritirntitainttfatryowic",
+            0.9616014655045465
+        ],
+        "RANK #411"
+    ],
+    [
+        [
+            "contmamihilecontingertheerwereeiuithalloitsiyftdeanriuithemeloithogwrdedgtalitilntitainttfatlwoyic",
+            0.9611421592162872
+        ],
+        "RANK #412"
+    ],
+    [
+        [
+            "cantmomihirecantingestheesdeseeifithorraityiuwtleonsifithemeraithagdslelgtoritirntitointtwotrdauic",
+            0.9610923758137891
+        ],
+        "RANK #413"
+    ],
+    [
+        [
+            "contyayihisecontingedtheedwedeeifithassoitrilutmeandifitheyesoithogwdmemgtasitisntitainttuatswolic",
+            0.9610890064210621
+        ],
+        "RANK #414"
+    ],
+    [
+        [
+            "wintdodaharewintancestheesfeseeamathorriatyagutleonsamathederiathicfslelctoratarntatoanttuotrfigaw",
+            0.9610397670365041
+        ],
+        "RANK #415"
+    ],
+    [
+        [
+            "contmamihilecontingertheeryereeifithalloitsiudtweanrifithemeloithogyrwewgtalitilntitainttdatlyouic",
+            0.9610037717930392
+        ],
+        "RANK #416"
+    ],
+    [
+        [
+            "contrarihiuecontingedtheedyedeeifithauuoitwilstmeandifithereuoithogydmemgtauitiuntitainttsatuyolic",
+            0.9608907164732179
+        ],
+        "RANK #417"
+    ],
+    [
+        [
+            "wintdodaharewintangestheesfeseeamathorriatyacutleonsamathederiathigfslelgtoratarntatoanttuotrficaw",
+            0.9608481408686834
+        ],
+        "RANK #418"
+    ],
+    [
+        [
+            "montrarihisemontinuectheecweceeidithassoityifltgeanciditheresoithouwcgegutasitisntitainttlatswofim",
+            0.9608188140233888
+        ],
+        "RANK #419"
+    ],
+    [
+        [
+            "wintlalohorewintonsedtheedmedeeofotharriotuocytgeandofotheleriothismdgegstarotorntotaonttyatrmicow",
+            0.960774180560954
+        ],
+        "RANK #420"
+    ],
+    [
+        [
+            "cyntrarihisecyntingedtheedmedeeilithassyitwifotueandilitheresyithygmdueugtasitisntitainttoatsmyfic",
+            0.9606772552742331
+        ],
+        "RANK #421"
+    ],
+    [
+        [
+            "fintraroholefintonsedtheedmedeeouothalliotyocwtgeandouothereliothismdgegstalotolntotaonttwatlmicof",
+            0.9600881163713294
+        ],
+        "RANK #422"
+    ],
+    [
+        [
+            "cgntrarihisecgntinuedtheedledeeiwithassgityifotmeandiwitheresgithguldmemutasitisntitainttoatslgfic",
+            0.9599390371871162
+        ],
+        "RANK #423"
+    ],
+    [
+        [
+            "contwawihisecontingedtheedfedeeirithassoitmiuytleandirithewesoithogfdlelgtasitisntitainttyatsfouic",
+            0.9598057439916202
+        ],
+        "RANK #424"
+    ],
+    [
+        [
+            "csntrarihioecsntingedtheedyedeeifithaoositwilutmeandifithereosithsgydmemgtaoitiontitainttuatoyslic",
+            0.9597397363529434
+        ],
+        "RANK #425"
+    ],
+    [
+        [
+            "cyntrarihisecyntinuedtheedledeeiwithassyitgifotmeandiwitheresyithyuldmemutasitisntitainttoatslyfic",
+            0.9595178257578608
+        ],
+        "RANK #426"
+    ],
+    [
+        [
+            "montyiyahacemontandestheesweseealathiccoatuafgtreinsalatheyecoathodwsrerdticatacntatianttgitcwofam",
+            0.9594706016263536
+        ],
+        "RANK #427"
+    ],
+    [
+        [
+            "costrarihinecostisgedtheedfedeeilithannoityiwutmeasdilitherenoithogfdmemgtanitinstitaisttuatnfowic",
+            0.9592636322619223
+        ],
+        "RANK #428"
+    ],
+    [
+        [
+            "ocntrarihiseocntingedtheedfedeeilithasscityiwutmeandilitherescithcgfdmemgtasitisntitainttuatsfcwio",
+            0.9592620079401586
+        ],
+        "RANK #429"
+    ],
+    [
+        [
+            "cyntrarihisecyntingedtheedfedeeilithassyitoiwutmeandilitheresyithygfdmemgtasitisntitainttuatsfywic",
+            0.9592154753422752
+        ],
+        "RANK #430"
+    ],
+    [
+        [
+            "csntrarihioecsntinuedtheedledeeiwithaoosityifgtmeandiwithereosithsuldmemutaoitiontitainttgatolsfic",
+            0.9591909743780105
+        ],
+        "RANK #431"
+    ],
+    [
+        [
+            "contrgrihisecontinuedtheedledeeiwithgssoityifatmegndiwitheresoithouldmemutgsitisntitginttagtslofic",
+            0.9591686876292754
+        ],
+        "RANK #432"
+    ],
+    [
+        [
+            "fontmamihilefontingestheesreseeicithalloituiwytdeansicithemeloithogrsdedgtalitilntitainttyatlrowif",
+            0.9591168509350623
+        ],
+        "RANK #433"
+    ],
+    [
+        [
+            "contuauihisecontingedtheedyedeeifithassoitwilrtmeandifitheuesoithogydmemgtasitisntitainttratsyolic",
+            0.9590172641044419
+        ],
+        "RANK #434"
+    ],
+    [
+        [
+            "cgntrarihisecgntinuedtheedledeeiwithassgityioftmeandiwitheresgithguldmemutasitisntitainttfatslgoic",
+            0.9589892289367797
+        ],
+        "RANK #435"
+    ],
+    [
+        [
+            "fontmamihilefontingestheesreseeicithalloitwiyutdeansicithemeloithogrsdedgtalitilntitainttuatlroyif",
+            0.9586338067173984
+        ],
+        "RANK #436"
+    ],
+    [
+        [
+            "mantrirohosemantoncedtheedyedeeofothissaotgolutweindofotheresaothacydwewctisotosntotionttuitsyalom",
+            0.9583653067318856
+        ],
+        "RANK #437"
+    ],
+    [
+        [
+            "wontmamihilewontinfestheesceseeidithalloityigutreansidithemeloithofcsrerftalitilntitainttuatlcogiw",
+            0.958336277214136
+        ],
+        "RANK #438"
+    ],
+    [
+        [
+            "cantmomihisecantingertheerlereeifithossaityiuwtdeonrifithemesaithaglrdedgtositisntitointtwotslauic",
+            0.9581147098946505
+        ],
+        "RANK #439"
+    ],
+    [
+        [
+            "fintmomaharefintanuestheesleseeacathorriatyagwtdeonsacathemeriathiulsdedutoratarntatoanttwotrligaf",
+            0.9579803263829978
+        ],
+        "RANK #440"
+    ],
+    [
+        [
+            "mantrirohosemantoncedtheedyedeeofothissaotgowutleindofotheresaothacydlelctisotosntotionttuitsyawom",
+            0.9579627085839737
+        ],
+        "RANK #441"
+    ],
+    [
+        [
+            "wantrirohosewantoncedtheedyedeeofothissaotgolutmeindofotheresaothacydmemctisotosntotionttuitsyalow",
+            0.9578839354772375
+        ],
+        "RANK #442"
+    ],
+    [
+        [
+            "cfntrarihisecfntingedtheedyedeeioithassfitwilutmeandioitheresfithfgydmemgtasitisntitainttuatsyflic",
+            0.9576495945157749
+        ],
+        "RANK #443"
+    ],
+    [
+        [
+            "mantfofihiremantingedtheedledeeiwithorraitsicytueondiwitheferaithagldueugtoritirntitointtyotrlacim",
+            0.9575086616118367
+        ],
+        "RANK #444"
+    ],
+    [
+        [
+            "cintlalohorecintonsedtheedmedeeofotharriotyowutgeandofotheleriothismdgegstarotorntotaonttuatrmiwoc",
+            0.9571767429095502
+        ],
+        "RANK #445"
+    ],
+    [
+        [
+            "fintdodaharefintangestheesweseeacathorriatyamutleonsacathederiathigwslelgtoratarntatoanttuotrwimaf",
+            0.9571610602631064
+        ],
+        "RANK #446"
+    ],
+    [
+        [
+            "uontcacihileuontingertheermereeiwithalloitfisytdeanriwitheceloithogmrdedgtalitilntitainttyatlmosiu",
+            0.9570818642431344
+        ],
+        "RANK #447"
+    ],
+    [
+        [
+            "wintmomaharewintangestheesleseeafathorriatyauctdeonsafathemeriathiglsdedgtoratarntatoanttcotrliuaw",
+            0.9569638723780782
+        ],
+        "RANK #448"
+    ],
+    [
+        [
+            "wontlalihirewontincedtheedgedeeiuitharroityifmtseandiuitheleroithocgdsesctaritirntitainttmatrgofiw",
+            0.9569623666880487
+        ],
+        "RANK #449"
+    ],
+    [
+        [
+            "cantsisohorecantongedtheedyedeeofothirraotwolutmeindofotheseraothagydmemgtirotorntotionttuitryaloc",
+            0.9569334787105012
+        ],
+        "RANK #450"
+    ],
+    [
+        [
+            "yontrarihiseyontinuectheecmeceeidithassoitwifltgeanciditheresoithoumcgegutasitisntitainttlatsmofiy",
+            0.9568820694533074
+        ],
+        "RANK #451"
+    ],
+    [
+        [
+            "wintmomaharewintancestheesfeseeadathorriatyagutleonsadathemeriathicfslelctoratarntatoanttuotrfigaw",
+            0.9568592046145793
+        ],
+        "RANK #452"
+    ],
+    [
+        [
+            "contrarihiyecontingedtheedsedeeifithayyoitliwutmeandifithereyoithogsdmemgtayitiyntitainttuatysowic",
+            0.9568556821799397
+        ],
+        "RANK #453"
+    ],
+    [
+        [
+            "yantfofihireyantingedtheedledeeiwithorraitmiuctseondiwitheferaithagldsesgtoritirntitointtcotrlauiy",
+            0.9564415138161407
+        ],
+        "RANK #454"
+    ],
+    [
+        [
+            "wintlalohorewintongedtheedcedeeofotharriotyomutseandofotheleriothigcdsesgtarotorntotaonttuatrcimow",
+            0.9562510172493204
+        ],
+        "RANK #455"
+    ],
+    [
+        [
+            "wintlalohorewintongedtheedmedeeofotharriotuocytseandofotheleriothigmdsesgtarotorntotaonttyatrmicow",
+            0.9560528574015184
+        ],
+        "RANK #456"
+    ],
+    [
+        [
+            "lintmomaharelintancedtheedfedeeasathorriatyawutgeondasathemeriathicfdgegctoratarntatoanttuotrfiwal",
+            0.9558136870908209
+        ],
+        "RANK #457"
+    ],
+    [
+        [
+            "cmntrarihisecmntingedtheedoedeeilithassmitwifytueandilitheresmithmgodueugtasitisntitainttyatsomfic",
+            0.9558089430898807
+        ],
+        "RANK #458"
+    ],
+    [
+        [
+            "wantrirohosewantongedtheedyedeeofothissaotcolutmeindofotheresaothagydmemgtisotosntotionttuitsyalow",
+            0.9557888435462055
+        ],
+        "RANK #459"
+    ],
+    [
+        [
+            "contuauihilecontingertheermereeidithalloitfisytweanriditheueloithogmrwewgtalitilntitainttyatlmosic",
+            0.9557301656908285
+        ],
+        "RANK #460"
+    ],
+    [
+        [
+            "fintmomaharefintangestheesdeseeacathorriatyauwtleonsacathemeriathigdslelgtoratarntatoanttwotrdiuaf",
+            0.9556225205439888
+        ],
+        "RANK #461"
+    ],
+    [
+        [
+            "fintraroholefintongedtheedmedeeouothalliotyocwtseandouothereliothigmdsesgtalotolntotaonttwatlmicof",
+            0.9555034867012755
+        ],
+        "RANK #462"
+    ],
+    [
+        [
+            "lontrarihiselontinuemtheemgemeeidithassoityifctweanmiditheresoithougmwewutasitisntitainttcatsgofil",
+            0.9554850159523924
+        ],
+        "RANK #463"
+    ],
+    [
+        [
+            "mantsosihiremantinledtheedyedeeiwithorraitficgtueondiwitheseraithalydueultoritirntitointtgotryacim",
+            0.9554497760619758
+        ],
+        "RANK #464"
+    ],
+    [
+        [
+            "fintdodaharefintangestheesmeseeacathorriatyawutleonsacathederiathigmslelgtoratarntatoanttuotrmiwaf",
+            0.9553671743511952
+        ],
+        "RANK #465"
+    ],
+    [
+        [
+            "contfafihisecontingedtheedyedeeirithassoitliwutmeandirithefesoithogydmemgtasitisntitainttuatsyowic",
+            0.955280713571774
+        ],
+        "RANK #466"
+    ],
+    [
+        [
+            "contuauihilecontinredtheedfedeeisithalloityigwtmeandisitheueloithorfdmemrtalitilntitainttwatlfogic",
+            0.9552581192163726
+        ],
+        "RANK #467"
+    ],
+    [
+        [
+            "wontmamihirewontingestheesfeseeicitharroityidutleansicithemeroithogfslelgtaritirntitainttuatrfodiw",
+            0.9550952218911098
+        ],
+        "RANK #468"
+    ],
+    [
+        [
+            "ocntrarihiseocntingedtheedledeeifithasscityiwutmeandifitherescithcgldmemgtasitisntitainttuatslcwio",
+            0.9550347625332746
+        ],
+        "RANK #469"
+    ],
+    [
+        [
+            "fontrarihisefontinueytheeymeyeeiwithassoitgicltdeanyiwitheresoithoumydedutasitisntitainttlatsmocif",
+            0.9548601432785337
+        ],
+        "RANK #470"
+    ],
+    [
+        [
+            "lintmomaharelintancedtheedyedeeasathorriatfawutgeondasathemeriathicydgegctoratarntatoanttuotryiwal",
+            0.9548022847613521
+        ],
+        "RANK #471"
+    ],
+    [
+        [
+            "contrarihiyecontinuestheesmeseeidithayyoitwifltgeansidithereyoithoumsgegutayitiyntitainttlatymofic",
+            0.95479312655525
+        ],
+        "RANK #472"
+    ],
+    [
+        [
+            "fintraroholefintonsedtheedmedeeouothalliotyowctgeandouothereliothismdgegstalotolntotaonttcatlmiwof",
+            0.9547523161700068
+        ],
+        "RANK #473"
+    ],
+    [
+        [
+            "wintdodaharewintangestheesfeseeacathorriatyamutleonsacathederiathigfslelgtoratarntatoanttuotrfimaw",
+            0.9547274510770555
+        ],
+        "RANK #474"
+    ],
+    [
+        [
+            "contlalihigecontinfedtheedyedeeisithaggoitmiuwtreandisithelegoithofydrerftagitigntitainttwatgyouic",
+            0.9547137049813343
+        ],
+        "RANK #475"
+    ],
+    [
+        [
+            "lantsisohorelantongedtheedyedeeofothirraotwocutmeindofotheseraothagydmemgtirotorntotionttuitryacol",
+            0.9546796991847736
+        ],
+        "RANK #476"
+    ],
+    [
+        [
+            "mantfofihiremantingedtheedsedeeiwithorraityicltueondiwitheferaithagsdueugtoritirntitointtlotrsacim",
+            0.9546650199133094
+        ],
+        "RANK #477"
+    ],
+    [
+        [
+            "contrarihilecontingemtheemfemeeidithalloitsiuytweanmidithereloithogfmwewgtalitilntitainttyatlfouic",
+            0.9544947691226071
+        ],
+        "RANK #478"
+    ],
+    [
+        [
+            "mantriroholemantoncedtheedyedeeofothillaotgowutseindofotherelaothacydsesctilotolntotionttuitlyawom",
+            0.9542791021308368
+        ],
+        "RANK #479"
+    ],
+    [
+        [
+            "wontlalihirewontinsedtheedmedeeifitharroityicutgeandifitheleroithosmdgegstaritirntitainttuatrmociw",
+            0.9540314418279073
+        ],
+        "RANK #480"
+    ],
+    [
+        [
+            "cfntrarihisecfntingedtheedmedeeilithassfitwioytueandilitheresfithfgmdueugtasitisntitainttyatsmfoic",
+            0.9538539909216558
+        ],
+        "RANK #481"
+    ],
+    [
+        [
+            "lintmomaharelintancedtheedgedeeasathorriatfawutyeondasathemeriathicgdyeyctoratarntatoanttuotrgiwal",
+            0.9538097645229606
+        ],
+        "RANK #482"
+    ],
+    [
+        [
+            "contaraihisecontingedtheedledeeiwithrssoityifutmerndiwitheaesoithogldmemgtrsitisntitrintturtslofic",
+            0.9537744245863496
+        ],
+        "RANK #483"
+    ],
+    [
+        [
+            "cantlolihirecantingestheesdeseeimithorraituiwftyeonsimitheleraithagdsyeygtoritirntitointtfotrdawic",
+            0.9536390390997439
+        ],
+        "RANK #484"
+    ],
+    [
+        [
+            "wintraroholewintonsedtheedfedeeomothalliotyocutgeandomothereliothisfdgegstalotolntotaonttuatlficow",
+            0.9534925033744654
+        ],
+        "RANK #485"
+    ],
+    [
+        [
+            "wintlalohorewintoncedtheedgedeeouotharriotyofmtseandouotheleriothicgdsesctarotorntotaonttmatrgifow",
+            0.9534533295379499
+        ],
+        "RANK #486"
+    ],
+    [
+        [
+            "cantfufihirecantingestheesmeseeiwithurraityilotdeunsiwitheferaithagmsdedgturitirntituinttoutrmalic",
+            0.9534265257776363
+        ],
+        "RANK #487"
+    ],
+    [
+        [
+            "contsasihirecontingeltheelyeleeiditharroituiwftmeanliditheseroithogylmemgtaritirntitainttfatryowic",
+            0.9533157166050974
+        ],
+        "RANK #488"
+    ],
+    [
+        [
+            "fontuauihilefontingestheesweseeidithalloityicmtreansiditheueloithogwsrergtalitilntitainttmatlwocif",
+            0.9533091502670991
+        ],
+        "RANK #489"
+    ],
+    [
+        [
+            "clntrarihiseclntinuedtheedoedeeiwithasslityifgtmeandiwithereslithluodmemutasitisntitainttgatsolfic",
+            0.9532927735928778
+        ],
+        "RANK #490"
+    ],
+    [
+        [
+            "wantfofihirewantingestheesyeseeimithorraitdilctueonsimitheferaithagysueugtoritirntitointtcotryaliw",
+            0.9532222319261187
+        ],
+        "RANK #491"
+    ],
+    [
+        [
+            "contyayihilecontinuedtheedfedeeisithalloitrigwtmeandisitheyeloithoufdmemutalitilntitainttwatlfogic",
+            0.9530504621899074
+        ],
+        "RANK #492"
+    ],
+    [
+        [
+            "fintsosaharefintangedtheedmedeeacathorriatyawutleondacatheseriathigmdlelgtoratarntatoanttuotrmiwaf",
+            0.9530121575934739
+        ],
+        "RANK #493"
+    ],
+    [
+        [
+            "lontrarihiselontinueytheeymeyeeiwithassoitgicftdeanyiwitheresoithoumydedutasitisntitainttfatsmocil",
+            0.9529433593316525
+        ],
+        "RANK #494"
+    ],
+    [
+        [
+            "contrarihilecontingemtheemdemeeifithalloitsiuytweanmifithereloithogdmwewgtalitilntitainttyatldouic",
+            0.9525889127519713
+        ],
+        "RANK #495"
+    ],
+    [
+        [
+            "dontwawihiledontingertheercereeifithalloituisytmeanrifitheweloithogcrmemgtalitilntitainttyatlcosid",
+            0.952450139317103
+        ],
+        "RANK #496"
+    ],
+    [
+        [
+            "cgntrarihisecgntinoedtheedfedeeilithassgityiwutmeandilitheresgithgofdmemotasitisntitainttuatsfgwic",
+            0.9524033962416336
+        ],
+        "RANK #497"
+    ],
+    [
+        [
+            "contrurihisecontinaedtheedgedeeiwithussoityifltmeundiwitheresoithoagdmematusitisntituinttlutsgofic",
+            0.9523216636864146
+        ],
+        "RANK #498"
+    ],
+    [
+        [
+            "costrarihinecostisgedtheedyedeeifithannoitwilutmeasdifitherenoithogydmemgtanitinstitaisttuatnyolic",
+            0.9519602286754347
+        ],
+        "RANK #499"
+    ],
+    [
+        [
+            "contrurihisecontinaedtheedgedeeiwithussoitfilytmeundiwitheresoithoagdmematusitisntituinttyutsgolic",
+            0.9518970890071804
+        ],
+        "RANK #500"
+    ]
+]
+-------------------------------------------------------------------------- End Sample output.txt ----------------------------------------------------------------------------

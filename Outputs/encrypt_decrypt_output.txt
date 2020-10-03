@@ -1,0 +1,50 @@
+
+Crypto mapping generated with key "Giacalone":
+{
+	'A': 'G', 'B': 'I', 'C': 'A', 'D': 'C', 'E': 'L', 'F': 'O', 'G': 'N', 
+	'H': 'E', 'I': 'B', 'J': 'D', 'K': 'F', 'L': 'H', 'M': 'J', 'N': 'K', 
+	'O': 'M', 'P': 'P', 'Q': 'Q', 'R': 'R', 'S': 'S', 'T': 'T', 'U': 'U', 
+	'V': 'V', 'W': 'W', 'X': 'X', 'Y': 'Y', 'Z': 'Z'
+}
+
+-------------------------------------------------------------------------- Begin Output 1 -------------------------------------------------------------------------- 
+
+Encrypting
+----------
+   Initial Message: HewhofightswithmonstersshouldlooktoitthathehimselfdoesnotbecomeamonsterAndifyougazelongintoanabysstheabyssalsogazesintoyou
+   Encrypted: ElwemobnetswbtejmkstlrssemuhchmmftmbttegtelebjslhocmlskmtilamjlgjmkstlrGkcboymungzlhmknbktmgkgiysstelgiyssghsmngzlsbktmymu
+Decrypting
+----------
+   Initial Message: ElwemobnetswbtejmkstlrssemuhchmmftmbttegtelebjslhocmlskmtilamjlgjmkstlrGkcboymungzlhmknbktmgkgiysstelgiyssghsmngzlsbktmymu
+   Decrypted: HewhofightswithmonstersshouldlooktoitthathehimselfdoesnotbecomeamonsterAndifyougazelongintoanabysstheabyssalsogazesintoyou
+
+-------------------------------------------------------------------------- End Output 1 ----------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------- Begin Output 2 -------------------------------------------------------------------------- 
+
+Encrypting
+----------
+   Initial Message: ThereisatheorywhichstatesthatifeveranybodydiscoversexactlywhattheUniverseisforandwhyitishereitwillinstantlydisappearandbereplacedbysomethingevenmorebizarreandinexplicableThereisanothertheorywhichstatesthatthishasalreadyhappened
+   Encrypted: TelrlbsgtelmrywebaestgtlstegtbolvlrgkyimcycbsamvlrslxgathywegttelUkbvlrslbsomrgkcweybtbselrlbtwbhhbkstgkthycbsgpplgrgkcilrlphgalciysmjltebknlvlkjmrlibzgrrlgkcbklxphbagihlTelrlbsgkmtelrtelmrywebaestgtlstegttebsegsghrlgcyegpplklc
+Decrypting
+----------
+   Initial Message: TelrlbsgtelmrywebaestgtlstegtbolvlrgkyimcycbsamvlrslxgathywegttelUkbvlrslbsomrgkcweybtbselrlbtwbhhbkstgkthycbsgpplgrgkcilrlphgalciysmjltebknlvlkjmrlibzgrrlgkcbklxphbagihlTelrlbsgkmtelrtelmrywebaestgtlstegttebsegsghrlgcyegpplklc
+   Decrypted: ThereisatheorywhichstatesthatifeveranybodydiscoversexactlywhattheUniverseisforandwhyitishereitwillinstantlydisappearandbereplacedbysomethingevenmorebizarreandinexplicableThereisanothertheorywhichstatesthatthishasalreadyhappened
+
+-------------------------------------------------------------------------- End Output 2 ----------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------- Begin Output 3 -------------------------------------------------------------------------- 
+
+Encrypting
+----------
+   Initial Message: WheneverIfindmyselfgrowinggrimaboutthemouthwheneveritisadampdrizzlyNovemberinmysoulwheneverIfindmyselfinvoluntarilypausingbeforecoffinwarehousesandbringinguptherearofeveryfuneralImeetandespeciallywhenevermyhyposgetsuchanupperhandofmethatitrequiresastrongmoralprincipletopreventmefromdeliberatelysteppingintothestreetandmethodicallyknockingpeopleshatsoffthenIaccountithightimetogettoseaassoonasIcan
+   Encrypted: WelklvlrBobkcjyslhonrmwbknnrbjgimutteljmutewelklvlrbtbsgcgjpcrbzzhyKmvljilrbkjysmuhwelklvlrBobkcjyslhobkvmhuktgrbhypgusbknilomrlamoobkwgrlemuslsgkcirbknbknuptelrlgrmolvlryouklrghBjlltgkclsplabghhywelklvlrjyeypmsnltsuaegkupplregkcmojltegtbtrlqubrlsgstrmknjmrghprbkabphltmprlvlktjlormjclhbilrgtlhystlppbknbktmtelstrlltgkcjltemcbaghhyfkmafbknplmphlsegtsmootelkBgaamuktbtebnetbjltmnlttmslggssmmkgsBagk
+Decrypting
+----------
+   Initial Message: WelklvlrBobkcjyslhonrmwbknnrbjgimutteljmutewelklvlrbtbsgcgjpcrbzzhyKmvljilrbkjysmuhwelklvlrBobkcjyslhobkvmhuktgrbhypgusbknilomrlamoobkwgrlemuslsgkcirbknbknuptelrlgrmolvlryouklrghBjlltgkclsplabghhywelklvlrjyeypmsnltsuaegkupplregkcmojltegtbtrlqubrlsgstrmknjmrghprbkabphltmprlvlktjlormjclhbilrgtlhystlppbknbktmtelstrlltgkcjltemcbaghhyfkmafbknplmphlsegtsmootelkBgaamuktbtebnetbjltmnlttmslggssmmkgsBagk
+   Decrypted: WheneverIfindmyselfgrowinggrimaboutthemouthwheneveritisadampdrizzlyNovemberinmysoulwheneverIfindmyselfinvoluntarilypausingbeforecoffinwarehousesandbringinguptherearofeveryfuneralImeetandespeciallywhenevermyhyposgetsuchanupperhandofmethatitrequiresastrongmoralprincipletopreventmefromdeliberatelysteppingintothestreetandmethodicallyknockingpeopleshatsoffthenIaccountithightimetogettoseaassoonasIcan
+
+-------------------------------------------------------------------------- End Output 3 ----------------------------------------------------------------------------
+
